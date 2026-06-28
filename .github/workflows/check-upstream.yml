@@ -1,0 +1,35 @@
+name: Check MECo upstream
+
+# Weekly: is the upstream Malaysian Election Corpus newer than our snapshot? If so,
+# open/comment an issue telling the maintainer to run `make refresh` and push. The
+# downstream sites (lompat, undi-wrapped) then self-update on their own weekly build.
+on:
+  schedule:
+    - cron: "7 20 * * 0"   # Sundays 20:07 UTC, before the downstream deploys
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare upstream to snapshot
+        run: |
+          UP=$(gh api repos/Thevesh/paper-meco-results/commits/main --jq '.sha')
+          HAVE=$(tr -d '[:space:]' < .meco-snapshot 2>/dev/null || echo "")
+          echo "upstream=$UP  snapshot=$HAVE"
+          if [ "$UP" = "$HAVE" ]; then echo "Up to date."; exit 0; fi
+          TITLE="MECo upstream updated — run \`make refresh\`"
+          BODY=$(printf 'The Malaysian Election Corpus ([Thevesh/paper-meco-results](https://github.com/Thevesh/paper-meco-results)) has new data.\n\n- upstream: `%s`\n- our snapshot: `%s`\n\nTo refresh the foundation and let the downstream sites pick it up:\n\n```sh\nmake refresh\ngit commit -am "refresh MECo snapshot"\ngit push\n```\n\nThe weekly deploys of **lompat** and **undi-wrapped** will then rebuild from the new data automatically — no code change needed.' "$UP" "$HAVE")
+          NUM=$(gh issue list --state open --search "in:title MECo upstream updated" --json number --jq '.[0].number // empty')
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body "Upstream moved to \`$UP\`."
+          else
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi

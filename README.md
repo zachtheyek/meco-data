@@ -44,3 +44,21 @@ python3 -m venv .venv
 ./.venv/bin/python pipeline.py     # writes out/
 ./.venv/bin/python validate.py     # sanity-checks against known results
 ```
+
+## Refreshing from upstream
+
+This repo is the single source of truth the downstream sites build from. When the MECo
+corpus is updated upstream, refresh it here in one line:
+
+```bash
+make refresh     # fetch the latest corpus into raw/ + rebuild out/, then commit & push
+```
+
+`make refresh` runs `fetch_raw.py` (downloads the consolidated tables from
+`Thevesh/paper-meco-results`, leaving our manual `raw/corrections.csv` untouched) and
+`pipeline.py`. Once you push, **lompat** and **undi-wrapped** regenerate their data from
+the new `out/*.parquet` on their next weekly build — no code change needed.
+
+A weekly GitHub Action (`.github/workflows/check-upstream.yml`) compares the upstream
+commit to `.meco-snapshot` and opens an issue when there's new data to pull in, so you're
+told *when* to run `make refresh` rather than having to watch upstream yourself.
