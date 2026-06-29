@@ -45,20 +45,21 @@ python3 -m venv .venv
 ./.venv/bin/python validate.py     # sanity-checks against known results
 ```
 
-## Refreshing from upstream
+## Refreshing from upstream (automatic)
 
-This repo is the single source of truth the downstream sites build from. When the MECo
-corpus is updated upstream, refresh it here in one line:
+This repo is the single source of truth the downstream sites build from, and it keeps
+itself current. A weekly GitHub Action (`.github/workflows/refresh.yml`, Sundays 20:07
+UTC) compares the upstream commit to `.meco-snapshot`; if there's new data it fetches it,
+rebuilds `out/`, and commits + pushes automatically. If nothing changed it does nothing.
+**lompat** and **undi-wrapped** then rebuild from the new `out/*.parquet` on their own
+weekly schedule ~10–30 min later — fully hands-off, end to end.
+
+`.meco-snapshot` records the upstream commit we're built from. The refresh leaves our
+manual `raw/corrections.csv` untouched and fails loudly (no push) if `pipeline.py` chokes
+on the new data, so a broken upstream surfaces as a failed run rather than bad live data.
+
+To refresh manually (locally, or to force it), it's one line:
 
 ```bash
 make refresh     # fetch the latest corpus into raw/ + rebuild out/, then commit & push
 ```
-
-`make refresh` runs `fetch_raw.py` (downloads the consolidated tables from
-`Thevesh/paper-meco-results`, leaving our manual `raw/corrections.csv` untouched) and
-`pipeline.py`. Once you push, **lompat** and **undi-wrapped** regenerate their data from
-the new `out/*.parquet` on their next weekly build — no code change needed.
-
-A weekly GitHub Action (`.github/workflows/check-upstream.yml`) compares the upstream
-commit to `.meco-snapshot` and opens an issue when there's new data to pull in, so you're
-told *when* to run `make refresh` rather than having to watch upstream yourself.
