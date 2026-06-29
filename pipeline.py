@@ -134,6 +134,19 @@ def main():
                  "lookup_dates", "lookup_prk"]:
         pd.read_csv(RAW / f"{name}.csv", dtype=str).to_parquet(OUT / f"{name}.parquet")
 
+    # Boundary-based seat lineage (electiondata.my, via fetch_lineage.py). This is the
+    # CORRECT cross-delimitation threading: per current seat, the (date,state,seat) of every
+    # election in its dominant-ancestor chain. It is one-to-MANY (a split seat is a shared
+    # ancestor of several modern seats — e.g. 1959 Damansara → 11 modern KL/Selangor seats),
+    # so it is a per-seat lookup, NOT a per-contest id. Seat-centric projects (undi-wrapped)
+    # build each seat's history by joining this to contests on (date,state,seat).
+    lin_path = RAW / "seat_lineage.csv"
+    if lin_path.exists():
+        pd.read_csv(lin_path, dtype=str).to_parquet(OUT / "seat_lineage.parquet")
+        print(f"seat lineage: {sum(1 for _ in open(lin_path)) - 1:>6,} ancestor rows (boundary-based)")
+    else:
+        print("seat lineage: (none — run `EDMY_API_KEY=... python fetch_lineage.py`)")
+
     b.to_parquet(OUT / "ballots.parquet")
     c.to_parquet(OUT / "contests.parquet")
     seats.to_parquet(OUT / "seats.parquet")

@@ -24,17 +24,36 @@ This repo only *re-shapes* that corpus. None of the primary data-cleaning credit
 |------|-------|-------|
 | `out/ballots.parquet`   | candidate × contest | cleaned, typed, with `seat_type`, `seat_key`, `contest_id` |
 | `out/contests.parquet`  | one contest         | winner, runner-up, margin, turnout, electorate |
-| `out/seats.parquet`     | one seat            | threaded across delimitations by `(type, state, normalised name)` |
+| `out/seats.parquet`     | one seat            | name-threaded dimension (legacy; prefer `seat_lineage` for history) |
 | `out/candidates.parquet`| one candidate       | entity-resolved record + career aggregates |
+| `out/seat_lineage.parquet` | current seat × ancestor | **boundary-based** lineage: per current seat, every `(date,state,seat)` in its dominant-ancestor chain |
 | `out/lookup_*.parquet`  | —                   | party / coalition entities + succession (lineage) |
 
-### Seat threading caveat
+### Seat lineage (boundary-based) — use this to thread a seat's history
 
-Seat identity is **not stable** across Malaysia's delimitation exercises — numbers are
-reassigned and names change (e.g. `P.001` was *Wellesley North → Perlis Utara → Kangar →
-Padang Besar*). We thread a seat's history by **normalised name within a state**, which is
-honest but name-based, not boundary-based. For true boundary lineage see MECo's electoral
-**maps** corpus and the geospatial seat view on electiondata.my.
+Seat identity is **not stable** across Malaysia's delimitations: numbers are reassigned,
+names change, and — critically — a seat can **keep its name while its boundaries are wholly
+replaced** (e.g. pre-2003 *P.190 Tawau* has **zero** overlap with today's Tawau; its real
+ancestor is the old *Semporna*). So name-matching is wrong, and the failure is invisible to
+name checks. `out/seat_lineage.parquet` is the correct source: for each current seat it
+lists every election in its **dominant-ancestor** chain (from electiondata.my). A split
+ancestor is shared by several modern seats (1959 *Damansara* → 11 modern KL/Selangor seats),
+so it's a **one-to-many lookup, not a per-contest id** — join it to `contests` on
+`(date,state,seat)` and group by `slug` to build each seat's true history. (Seat-centric
+projects like undi-wrapped do exactly this.)
+
+**Refreshing the lineage** (only needed after a *new redelineation* — it doesn't change
+between elections, so it's deliberately not in the weekly CI):
+
+```bash
+EDMY_API_KEY=<your electiondata.my key> python fetch_lineage.py   # writes raw/seat_lineage.csv
+python pipeline.py                                                 # -> out/seat_lineage.parquet
+```
+
+The key is **never committed** — it's read from the environment for this one manual fetch;
+only the resulting `raw/seat_lineage.csv` is committed. Routine (weekly) refreshes reuse that
+committed snapshot and need no key; a new election under unchanged boundaries is picked up
+automatically by name downstream.
 
 ## Reproduce
 
