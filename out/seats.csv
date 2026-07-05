@@ -416,101 +416,101 @@ state|Johor|bandar penggaram,state,Johor,Bandar Penggaram,N.25 Bandar Penggaram,
 state|Johor|bandar segamat,state,Johor,Bandar Segamat,N.03 Bandar Segamat,Bandar Segamat,1,1959,1982,6,False
 state|Johor|bandar tenggara,state,Johor,Bandar Tenggara,N.26 Bandar Tenggara,Bandar Tenggara,1,1986,1990,2,False
 state|Johor|batu anam,state,Johor,Batu Anam,N.29 Batu Anam,Batu Anam,1,1959,1969,3,False
-state|Johor|bekok,state,Johor,Bekok,N.06 Bekok,Bekok,1,1959,2022,16,True
-state|Johor|bentayan,state,Johor,Bentayan,N.12 Bentayan,Bentayan,1,2004,2022,5,True
-state|Johor|benut,state,Johor,Benut,N.53 Benut,Benut,1,1959,2022,15,True
+state|Johor|bekok,state,Johor,Bekok,N.06 Bekok,Bekok,1,1959,2026,17,False
+state|Johor|bentayan,state,Johor,Bentayan,N.12 Bentayan,Bentayan,1,2004,2026,6,False
+state|Johor|benut,state,Johor,Benut,N.53 Benut,Benut,1,1959,2026,16,False
 state|Johor|broleh,state,Johor,Broleh,N.09 Broleh,Broleh,1,1959,1969,3,False
-state|Johor|bukit batu,state,Johor,Bukit Batu,N.51 Bukit Batu,Bukit Batu,1,2004,2022,5,True
-state|Johor|bukit kepong,state,Johor,Bukit Kepong,N.07 Bukit Kepong,Bukit Kepong,1,2018,2022,2,True
-state|Johor|bukit naning,state,Johor,Bukit Naning,N.14 Bukit Naning,Bukit Naning,1,1986,2022,9,True
-state|Johor|bukit pasir,state,Johor,Bukit Pasir,N.08 Bukit Pasir,Bukit Pasir,1,2018,2022,2,True
-state|Johor|bukit permai,state,Johor,Bukit Permai,N.50 Bukit Permai,Bukit Permai,1,1995,2022,7,True
+state|Johor|bukit batu,state,Johor,Bukit Batu,N.51 Bukit Batu,Bukit Batu,1,2004,2026,6,False
+state|Johor|bukit kepong,state,Johor,Bukit Kepong,N.07 Bukit Kepong,Bukit Kepong,1,2018,2026,3,False
+state|Johor|bukit naning,state,Johor,Bukit Naning,N.14 Bukit Naning,Bukit Naning,1,1986,2026,10,False
+state|Johor|bukit pasir,state,Johor,Bukit Pasir,N.08 Bukit Pasir,Bukit Pasir,1,2018,2026,3,False
+state|Johor|bukit permai,state,Johor,Bukit Permai,N.50 Bukit Permai,Bukit Permai,1,1995,2026,8,False
 state|Johor|bukit serampang,state,Johor,Bukit Serampang,N.07 Bukit Serampang,Bukit Serampang,1,1959,2013,14,False
-state|Johor|buloh kasap,state,Johor,Buloh Kasap,N.01 Buloh Kasap,Buloh Kasap,1,1974,2022,8,True
-state|Johor|endau,state,Johor,Endau,N.32 Endau,Endau,1,1959,2022,15,True
-state|Johor|gambir,state,Johor,Gambir,N.09 Gambir,Gambir,1,2004,2022,5,True
+state|Johor|buloh kasap,state,Johor,Buloh Kasap,N.01 Buloh Kasap,Buloh Kasap,1,1974,2026,9,False
+state|Johor|endau,state,Johor,Endau,N.32 Endau,Endau,1,1959,2026,16,False
+state|Johor|gambir,state,Johor,Gambir,N.09 Gambir,Gambir,1,2004,2026,6,False
 state|Johor|gelang patah,state,Johor,Gelang Patah,N.34 Gelang Patah,Gelang Patah,1,1959,1990,8,False
 state|Johor|gertak merah,state,Johor,Gertak Merah,N.32 Gertak Merah,Gertak Merah,1,1986,1990,2,False
 state|Johor|gunong lambak,state,Johor,Gunong Lambak,N.13 Gunong Lambak,Gunong Lambak,1,1959,1969,3,False
 state|Johor|gunung lambak,state,Johor,Gunung Lambak,N.24 Gunung Lambak,Gunung Lambak,1,1986,1999,4,False
-state|Johor|jementah,state,Johor,Jementah,N.02 Jementah,Jementah,1,1986,2022,9,True
-state|Johor|johor jaya,state,Johor,Johor Jaya,N.42 Johor Jaya,Johor Jaya,1,2004,2022,5,True
-state|Johor|johor lama,state,Johor,Johor Lama,N.37 Johor Lama,Johor Lama,1,1974,2022,8,True
+state|Johor|jementah,state,Johor,Jementah,N.02 Jementah,Jementah,1,1986,2026,10,False
+state|Johor|johor jaya,state,Johor,Johor Jaya,N.42 Johor Jaya,Johor Jaya,1,2004,2026,6,False
+state|Johor|johor lama,state,Johor,Johor Lama,N.37 Johor Lama,Johor Lama,1,1974,2026,9,False
 state|Johor|johore lama,state,Johor,Johore Lama,N.16 Johore Lama,Johore Lama,1,1959,1973,4,False
 state|Johor|jorak,state,Johor,Jorak,N.08 Jorak,Jorak,1,1959,2013,13,False
-state|Johor|kahang,state,Johor,Kahang,N.31 Kahang,Kahang,1,2004,2022,5,True
-state|Johor|kemelah,state,Johor,Kemelah,N.04 Kemelah,Kemelah,1,2004,2022,5,True
-state|Johor|kempas,state,Johor,Kempas,N.47 Kempas,Kempas,1,1995,2022,7,True
+state|Johor|kahang,state,Johor,Kahang,N.31 Kahang,Kahang,1,2004,2026,6,False
+state|Johor|kemelah,state,Johor,Kemelah,N.04 Kemelah,Kemelah,1,2004,2026,6,False
+state|Johor|kempas,state,Johor,Kempas,N.47 Kempas,Kempas,1,1995,2026,8,False
 state|Johor|kesang,state,Johor,Kesang,N.12 Kesang,Kesang,1,1974,1982,3,False
-state|Johor|kota iskandar,state,Johor,Kota Iskandar,N.49 Kota Iskandar,Kota Iskandar,1,2018,2022,2,True
+state|Johor|kota iskandar,state,Johor,Kota Iskandar,N.49 Kota Iskandar,Kota Iskandar,1,2018,2026,3,False
 state|Johor|kota tinggi,state,Johor,Kota Tinggi,N.19 Kota Tinggi,Kota Tinggi,1,1959,1982,6,False
-state|Johor|kukup,state,Johor,Kukup,N.56 Kukup,Kukup,1,1974,2022,12,True
+state|Johor|kukup,state,Johor,Kukup,N.56 Kukup,Kukup,1,1974,2026,13,False
 state|Johor|kulai,state,Johor,Kulai,N.27 Kulai,Kulai,1,1974,1999,7,False
 state|Johor|labis,state,Johor,Labis,N.03 Labis,Labis,1,1959,1969,3,False
-state|Johor|larkin,state,Johor,Larkin,N.44 Larkin,Larkin,1,2018,2022,2,True
-state|Johor|layang-layang,state,Johor,Layang-Layang,N.27 Layang-Layang,Layang-Layang,1,1974,2022,8,True
-state|Johor|machap,state,Johor,Machap,N.26 Machap,Machap,1,2004,2022,5,True
-state|Johor|maharani,state,Johor,Maharani,N.15 Maharani,Maharani,1,1986,2022,9,True
-state|Johor|mahkota,state,Johor,Mahkota,N.29 Mahkota,Mahkota,1,2004,2024,6,False
-state|Johor|mengkibol,state,Johor,Mengkibol,N.28 Mengkibol,Mengkibol,1,1995,2022,7,True
+state|Johor|larkin,state,Johor,Larkin,N.44 Larkin,Larkin,1,2018,2026,3,False
+state|Johor|layang-layang,state,Johor,Layang-Layang,N.27 Layang-Layang,Layang-Layang,1,1974,2026,9,False
+state|Johor|machap,state,Johor,Machap,N.26 Machap,Machap,1,2004,2026,6,False
+state|Johor|maharani,state,Johor,Maharani,N.15 Maharani,Maharani,1,1986,2026,10,False
+state|Johor|mahkota,state,Johor,Mahkota,N.29 Mahkota,Mahkota,1,2004,2026,7,False
+state|Johor|mengkibol,state,Johor,Mengkibol,N.28 Mengkibol,Mengkibol,1,1995,2026,8,False
 state|Johor|mersing,state,Johor,Mersing,N.08 Mersing,Mersing,1,1959,1982,6,False
 state|Johor|nusa jaya,state,Johor,Nusa Jaya,N.49 Nusa Jaya,Nusa Jaya,1,2004,2013,3,False
-state|Johor|paloh,state,Johor,Paloh,N.30 Paloh,Paloh,1,1986,2022,9,True
-state|Johor|panti,state,Johor,Panti,N.34 Panti,Panti,1,1995,2022,7,True
+state|Johor|paloh,state,Johor,Paloh,N.30 Paloh,Paloh,1,1986,2026,10,False
+state|Johor|panti,state,Johor,Panti,N.34 Panti,Panti,1,1995,2026,8,False
 state|Johor|parit bakar,state,Johor,Parit Bakar,N.17 Parit Bakar,Parit Bakar,1,1959,1999,8,False
 state|Johor|parit jawa,state,Johor,Parit Jawa,N.18 Parit Jawa,Parit Jawa,1,1959,1990,9,False
-state|Johor|parit raja,state,Johor,Parit Raja,N.22 Parit Raja,Parit Raja,1,1974,2022,13,True
-state|Johor|parit yaani,state,Johor,Parit Yaani,N.21 Parit Yaani,Parit Yaani,1,1986,2022,9,True
+state|Johor|parit raja,state,Johor,Parit Raja,N.22 Parit Raja,Parit Raja,1,1974,2026,14,False
+state|Johor|parit yaani,state,Johor,Parit Yaani,N.21 Parit Yaani,Parit Yaani,1,1986,2026,10,False
 state|Johor|pasir gudang,state,Johor,Pasir Gudang,N.32 Pasir Gudang,Pasir Gudang,1,1986,1999,4,False
-state|Johor|pasir raja,state,Johor,Pasir Raja,N.35 Pasir Raja,Pasir Raja,1,2004,2022,5,True
-state|Johor|pekan nanas,state,Johor,Pekan Nanas,N.55 Pekan Nanas,Pekan Nanas,1,2018,2022,2,True
+state|Johor|pasir raja,state,Johor,Pasir Raja,N.35 Pasir Raja,Pasir Raja,1,2004,2026,6,False
+state|Johor|pekan nanas,state,Johor,Pekan Nanas,N.55 Pekan Nanas,Pekan Nanas,1,2018,2026,3,False
 state|Johor|pekan nenas,state,Johor,Pekan Nenas,N.55 Pekan Nenas,Pekan Nenas,1,2004,2013,3,False
-state|Johor|pemanis,state,Johor,Pemanis,N.03 Pemanis,Pemanis,1,2004,2022,5,True
-state|Johor|penawar,state,Johor,Penawar,N.38 Penawar,Penawar,1,2004,2022,5,True
+state|Johor|pemanis,state,Johor,Pemanis,N.03 Pemanis,Pemanis,1,2004,2026,6,False
+state|Johor|penawar,state,Johor,Penawar,N.38 Penawar,Penawar,1,2004,2026,6,False
 state|Johor|pengerang,state,Johor,Pengerang,N.30 Pengerang,Pengerang,1,1986,1999,4,False
-state|Johor|penggaram,state,Johor,Penggaram,N.23 Penggaram,Penggaram,1,1986,2022,9,True
+state|Johor|penggaram,state,Johor,Penggaram,N.23 Penggaram,Penggaram,1,1986,2026,10,False
 state|Johor|pengkalan rinting,state,Johor,Pengkalan Rinting,N.46 Pengkalan Rinting,Pengkalan Rinting,1,2004,2013,3,False
-state|Johor|perling,state,Johor,Perling,N.46 Perling,Perling,1,2018,2022,2,True
-state|Johor|permas,state,Johor,Permas,N.43 Permas,Permas,1,2004,2022,5,True
+state|Johor|perling,state,Johor,Perling,N.46 Perling,Perling,1,2018,2026,3,False
+state|Johor|permas,state,Johor,Permas,N.43 Permas,Permas,1,2004,2026,6,False
 state|Johor|peserai,state,Johor,Peserai,N.24 Peserai,Peserai,1,1974,1982,3,False
 state|Johor|plentong,state,Johor,Plentong,N.23 Plentong,Plentong,1,1959,1969,4,False
 state|Johor|pontian dalam,state,Johor,Pontian Dalam,N.19 Pontian Dalam,Pontian Dalam,1,1959,1969,3,False
 state|Johor|pontian kechil,state,Johor,Pontian Kechil,N.20 Pontian Kechil,Pontian Kechil,1,1959,1969,4,False
-state|Johor|pulai sebatang,state,Johor,Pulai Sebatang,N.54 Pulai Sebatang,Pulai Sebatang,1,1986,2022,9,True
-state|Johor|puteri wangsa,state,Johor,Puteri Wangsa,N.41 Puteri Wangsa,Puteri Wangsa,1,2004,2022,5,True
+state|Johor|pulai sebatang,state,Johor,Pulai Sebatang,N.54 Pulai Sebatang,Pulai Sebatang,1,1986,2026,10,False
+state|Johor|puteri wangsa,state,Johor,Puteri Wangsa,N.41 Puteri Wangsa,Puteri Wangsa,1,2004,2026,6,False
 state|Johor|rengam,state,Johor,Rengam,N.21 Rengam,Rengam,1,1959,1969,3,False
-state|Johor|rengit,state,Johor,Rengit,N.25 Rengit,Rengit,1,1959,2022,15,True
-state|Johor|sedili,state,Johor,Sedili,N.36 Sedili,Sedili,1,1986,2022,9,True
-state|Johor|semarang,state,Johor,Semarang,N.20 Semarang,Semarang,1,2004,2022,5,True
-state|Johor|semerah,state,Johor,Semerah,N.17 Semerah,Semerah,1,1986,2022,9,True
-state|Johor|senai,state,Johor,Senai,N.52 Senai,Senai,1,2004,2022,5,True
+state|Johor|rengit,state,Johor,Rengit,N.25 Rengit,Rengit,1,1959,2026,16,False
+state|Johor|sedili,state,Johor,Sedili,N.36 Sedili,Sedili,1,1986,2026,10,False
+state|Johor|semarang,state,Johor,Semarang,N.20 Semarang,Semarang,1,2004,2026,6,False
+state|Johor|semerah,state,Johor,Semerah,N.17 Semerah,Semerah,1,1986,2026,10,False
+state|Johor|senai,state,Johor,Senai,N.52 Senai,Senai,1,2004,2026,6,False
 state|Johor|senai-kulai,state,Johor,Senai-Kulai,N.22 Senai-Kulai,Senai-Kulai,1,1959,1969,3,False
-state|Johor|senggarang,state,Johor,Senggarang,N.24 Senggarang,Senggarang,1,2004,2022,5,True
+state|Johor|senggarang,state,Johor,Senggarang,N.24 Senggarang,Senggarang,1,2004,2026,6,False
 state|Johor|sepinang,state,Johor,Sepinang,N.01 Sepinang,Sepinang,1,1986,1999,4,False
-state|Johor|serom,state,Johor,Serom,N.11 Serom,Serom,1,1959,2022,15,True
-state|Johor|simpang jeram,state,Johor,Simpang Jeram,N.13 Simpang Jeram,Simpang Jeram,1,2018,2023,3,False
+state|Johor|serom,state,Johor,Serom,N.11 Serom,Serom,1,1959,2026,16,False
+state|Johor|simpang jeram,state,Johor,Simpang Jeram,N.13 Simpang Jeram,Simpang Jeram,1,2018,2026,4,False
 state|Johor|simpang kiri,state,Johor,Simpang Kiri,N.08 Simpang Kiri,Simpang Kiri,1,1959,1969,3,False
 state|Johor|simpang renggam,state,Johor,Simpang Renggam,N.25 Simpang Renggam,Simpang Renggam,1,1974,1999,7,False
-state|Johor|skudai,state,Johor,Skudai,N.48 Skudai,Skudai,1,1974,2022,10,True
+state|Johor|skudai,state,Johor,Skudai,N.48 Skudai,Skudai,1,1974,2026,11,False
 state|Johor|sri lalang,state,Johor,Sri Lalang,N.13 Sri Lalang,Sri Lalang,1,1959,1982,8,False
-state|Johor|sri medan,state,Johor,Sri Medan,N.18 Sri Medan,Sri Medan,1,1974,2022,12,True
+state|Johor|sri medan,state,Johor,Sri Medan,N.18 Sri Medan,Sri Medan,1,1974,2026,13,False
 state|Johor|sri menanti,state,Johor,Sri Menanti,N.23 Sri Menanti,Sri Menanti,1,1974,1982,3,False
-state|Johor|stulang,state,Johor,Stulang,N.45 Stulang,Stulang,1,1995,2022,7,True
+state|Johor|stulang,state,Johor,Stulang,N.45 Stulang,Stulang,1,1995,2026,8,False
 state|Johor|sungai abong,state,Johor,Sungai Abong,N.13 Sungai Abong,Sungai Abong,1,2004,2013,3,False
-state|Johor|sungai balang,state,Johor,Sungai Balang,N.16 Sungai Balang,Sungai Balang,1,1995,2022,7,True
+state|Johor|sungai balang,state,Johor,Sungai Balang,N.16 Sungai Balang,Sungai Balang,1,1995,2026,8,False
 state|Johor|tambatan,state,Johor,Tambatan,N.35 Tambatan,Tambatan,1,1986,1999,5,False
 state|Johor|tampoi,state,Johor,Tampoi,N.26 Tampoi,Tampoi,1,1959,1969,4,False
-state|Johor|tangkak,state,Johor,Tangkak,N.10 Tangkak,Tangkak,1,1959,2022,15,True
+state|Johor|tangkak,state,Johor,Tangkak,N.10 Tangkak,Tangkak,1,1959,2026,16,False
 state|Johor|tanjong kupang,state,Johor,Tanjong Kupang,N.37 Tanjong Kupang,Tanjong Kupang,1,1995,1999,2,False
 state|Johor|tanjong petri,state,Johor,Tanjong Petri,N.32 Tanjong Petri,Tanjong Petri,1,1959,1982,6,False
 state|Johor|tanjong puteri,state,Johor,Tanjong Puteri,N.44 Tanjong Puteri,Tanjong Puteri,1,1986,2013,8,False
 state|Johor|tanjong sembrong,state,Johor,Tanjong Sembrong,N.11 Tanjong Sembrong,Tanjong Sembrong,1,1959,1969,3,False
 state|Johor|tanjong surat,state,Johor,Tanjong Surat,N.39 Tanjong Surat,Tanjong Surat,1,2004,2013,3,False
-state|Johor|tanjung surat,state,Johor,Tanjung Surat,N.39 Tanjung Surat,Tanjung Surat,1,2018,2022,2,True
-state|Johor|tenang,state,Johor,Tenang,N.05 Tenang,Tenang,1,1986,2022,10,True
-state|Johor|tenggaroh,state,Johor,Tenggaroh,N.33 Tenggaroh,Tenggaroh,1,1986,2022,9,True
-state|Johor|tiram,state,Johor,Tiram,N.40 Tiram,Tiram,1,1974,2022,12,True
-state|Johor|yong peng,state,Johor,Yong Peng,N.19 Yong Peng,Yong Peng,1,2004,2022,5,True
+state|Johor|tanjung surat,state,Johor,Tanjung Surat,N.39 Tanjung Surat,Tanjung Surat,1,2018,2026,3,False
+state|Johor|tenang,state,Johor,Tenang,N.05 Tenang,Tenang,1,1986,2026,11,False
+state|Johor|tenggaroh,state,Johor,Tenggaroh,N.33 Tenggaroh,Tenggaroh,1,1986,2026,10,False
+state|Johor|tiram,state,Johor,Tiram,N.40 Tiram,Tiram,1,1974,2026,13,False
+state|Johor|yong peng,state,Johor,Yong Peng,N.19 Yong Peng,Yong Peng,1,2004,2026,6,False
 state|Kedah|alor janggus,state,Kedah,Alor Janggus,N.11 Alor Janggus,Alor Janggus,1,1986,1990,2,False
 state|Kedah|alor mengkudu,state,Kedah,Alor Mengkudu,N.14 Alor Mengkudu,Alor Mengkudu,1,2004,2023,5,True
 state|Kedah|alor merah,state,Kedah,Alor Merah,N.14 Alor Merah,Alor Merah,1,1974,1999,7,False
