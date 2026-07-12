@@ -2643,7 +2643,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,GE-08,Perak,P.049 Gerik,2,JFJR9,Roslan Mohd Latif,Roslan bin Mohd Latif,M,Malay,35,S46,062-S46,S46,005-APU,APU,8565,35.476121443068386,2,lost
 1990-10-20,GE-08,Perak,P.050 Larut,1,GTM53,Haji Mohd Zihin Bin Haji Mohd Hassan,Mohd. Zihim bin Mohd. Hassan,M,Malay,51,BN,001-UMNO,UMNO,001-BN,BN,17162,73.55247932113316,1,won
 1990-10-20,GE-08,Perak,P.050 Larut,2,M5721,Cikgu Ahmad Nawi,Ahmad bin Nawi,M,Malay,-1,S46,062-S46,S46,005-APU,APU,6171,26.447520678866844,2,lost
-1990-10-20,GE-08,Perak,P.051 Parit Buntar,1,P2DPQ,Dato' Haji Abdul Rahman Sulaiman,Abdul Rahman bin Suliman,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,14113,50.08872799545713,1,won
+1990-10-20,GE-08,Perak,P.051 Parit Buntar,1,7NP69,Dato' Haji Abdul Rahman Sulaiman,Abdul Rahman bin Sulaiman,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,14113,50.08872799545713,1,won
 1990-10-20,GE-08,Perak,P.051 Parit Buntar,2,WSNGZ,Haji Jaafar Ali,Jaafar bin Ali,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,689,2.44534355479841,3,lost_deposit
 1990-10-20,GE-08,Perak,P.051 Parit Buntar,3,478XM,Idris Abdul Rauf,Idris bin Abdul Rauf,M,Malay,58,S46,062-S46,S46,005-APU,APU,13374,47.46592844974447,2,lost
 1990-10-20,GE-08,Perak,P.052 Bagan Serai,1,NX8TJ,Dato' Haji Qamaruzzaman Bin Hj. Ismail,Qamaruz Zaman bin Ismail,M,Malay,-1,BN,001-UMNO,UMNO,001-BN,BN,14824,55.6331156646401,1,won
@@ -3054,7 +3054,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1995-04-24,GE-09,Perak,P.052 Gerik,1,ZS8NF,Mohamad Tajol Rosli Bin Mohd Ghazali,Mohd Tajol Rosli bin Mohd Ghazali,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,17170,71.89515115986936,1,won
 1995-04-24,GE-09,Perak,P.052 Gerik,2,JFJR9,Roslan Bin Mohd Latif,Roslan bin Mohd Latif,M,Malay,40,S46,062-S46,S46,005-APU,APU,6712,28.104848840130643,2,lost
 1995-04-24,GE-09,Perak,P.053 Larut,1,GTM53,Mohd Zihim Bin Mohd Hassan,Mohd. Zihim bin Mohd. Hassan,M,Malay,56,BN,001-UMNO,UMNO,001-BN,BN,0,,1,won_uncontested
-1995-04-24,GE-09,Perak,P.054 Parit Buntar,1,P2DPQ,Abdul Rahman Bin Haji Sulaiman,Abdul Rahman bin Suliman,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,17180,59.423748746151986,1,won
+1995-04-24,GE-09,Perak,P.054 Parit Buntar,1,7NP69,Abdul Rahman Bin Haji Sulaiman,Abdul Rahman bin Sulaiman,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,17180,59.423748746151986,1,won
 1995-04-24,GE-09,Perak,P.054 Parit Buntar,2,478XM,Idris Bin Abdul Rauf,Idris bin Abdul Rauf,M,Malay,63,S46,062-S46,S46,005-APU,APU,11731,40.576251253848014,2,lost
 1995-04-24,GE-09,Perak,P.055 Bagan Serai,1,9W4V6,Zainal Abidin Bin Zin,Zainal Abidin bin Zin,M,Malay,55,S46,062-S46,S46,005-APU,APU,10184,38.25982417912691,2,lost
 1995-04-24,GE-09,Perak,P.055 Bagan Serai,2,NX8TJ,Qamaruz Zaman Bin Haji Ismail,Qamaruz Zaman bin Ismail,M,Malay,-1,BN,001-UMNO,UMNO,001-BN,BN,16434,61.74017582087309,1,won
@@ -11331,7 +11331,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Pulau Pinang,N.26 Sungei Pinang,3,K13PP,N. Patkunam,N. Patkunam,M,Indian,-1,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,2349,14.802445018589703,3,lost
 1978-07-08,SE-05,Pulau Pinang,N.26 Sungei Pinang,4,PESRZ,Tan Chong Hooi,Tan Chong Hooi,M,Chinese,42,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,777,4.896338773709749,4,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,1,KX9VT,Karpal Singh,Karpal Singh a/l Ram Singh,M,Other,38,DAP,021-DAP,DAP,000-ALONE,ALONE,7776,46.36298592892917,1,won
-1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,2,9Z7PZ,Tan Gim Hwa,Tan Gim Hwa,M,Chinese,40,BN,003-MCA,MCA,001-BN,BN,7202,42.940615311233,2,lost
+1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,2,9Z7PZ,Tan Gim Hwa,Tan Gim Hwa,M,Chinese,40,BN,026-GERAKAN,GERAKAN,001-BN,BN,7202,42.940615311233,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,3,0TYVK,Yeap Gim Guan,Yeap Ghim Guan,M,Chinese,38,SDP,044-SDP,SDP,000-ALONE,ALONE,946,5.6403529692344385,3,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,4,SWFV8,A.R. Karim,A.R. Karim,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,848,5.056045790603387,4,lost_deposit
 1982-04-22,SE-06,Pulau Pinang,N.01 Penaga,1,DB6XQ,Ismail Bin Hamid,Ismail bin Hamid,M,Malay,40,PAS,004-PAS,PAS,000-ALONE,ALONE,2544,29.887218045112785,2,lost
@@ -19948,7 +19948,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Johor,N.50 Bukit Permai,1,T1AF8,Kamaruzaman Bin Ali,Kamaruzaman bin Ali,M,Malay,45,BN,001-UMNO,UMNO,001-BN,BN,8385,72.42183451373295,1,won
 2008-03-08,SE-12,Johor,N.50 Bukit Permai,2,XF0HH,Mohd Badzihar Bin Mohd Basri,Mohd Badzihar bin Mohd Basri,M,Malay,40,PAS,004-PAS,PAS,007-PR,PR,3193,27.57816548626706,2,lost
 2008-03-08,SE-12,Johor,N.51 Bukit Batu,1,GATBS,Liew Shin Kheong,Liew Shin Kheong,M,Chinese,42,PKR,078-PKR,PKR,007-PR,PR,6464,42.33414107014212,2,lost
-2008-03-08,SE-12,Johor,N.51 Bukit Batu,2,KRGE2,Cheong Chin Liang,Cheong Chin Liang,M,Chinese,42,BN,003-MCA,MCA,001-BN,BN,8805,57.66585892985788,1,won
+2008-03-08,SE-12,Johor,N.51 Bukit Batu,2,KRGE2,Cheong Chin Liang,Cheong Chin Liang,M,Chinese,42,BN,026-GERAKAN,GERAKAN,001-BN,BN,8805,57.66585892985788,1,won
 2008-03-08,SE-12,Johor,N.52 Senai,1,30E4X,Ong Kow Meng,Ong Kow Meng,M,Chinese,56,DAP,021-DAP,DAP,007-PR,PR,14612,57.997936016511865,1,won
 2008-03-08,SE-12,Johor,N.52 Senai,2,Q66GB,Chun Yoon Fook,Chun Yoon Fook,M,Chinese,53,BN,003-MCA,MCA,001-BN,BN,10582,42.00206398348813,2,lost
 2008-03-08,SE-12,Johor,N.53 Benut,1,6E476,Datuk Hasni Bin Mohammad,Hasni bin Mohammad,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,10098,72.6893175928592,1,won
@@ -20476,178 +20476,178 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2022-03-12,SE-15,Johor,N.56 Kukup,2,D2ZRX,Mahathir Iskandar Bin Muhammad,Mahathir Iskandar bin Muhammad,M,Malay,35,PN,107-BERSATU,BERSATU,011-PN,PN,3439,17.83528679597552,2,lost
 2022-03-12,SE-15,Johor,N.56 Kukup,3,GGNV6,Zaiful Bakri @ Epul,Zaiful bin Bakri,M,Malay,43,PKR,078-PKR,PKR,007-PH,PH,3276,16.989938803028732,3,lost
 2022-03-12,SE-15,Johor,N.56 Kukup,4,KYBXF,Dato' Jefridin Atan,Jefridin bin Atan,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,11640,60.36718182761124,1,won
-2026-07-11,SE-16,Johor,N.01 Buloh Kasap,1,5W8DG,Zahari Sarip,Zahari bin Sarip,M,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.01 Buloh Kasap,2,P2SR8,Rozy Razit,Noraziah binti Mohd Razit (Rozy),F,Malay,43,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.02 Jementah,1,SGFTH,Saifullah Wahab,Saifullah bin Abdul Wahab,M,Malay,36,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.02 Jementah,2,FG0GF,See Ann Giap,See Ann Giap,M,Chinese,35,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.02 Jementah,3,PBCN1,Ng Kor Sim,Ng Kor Sim,M,Chinese,43,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.03 Pemanis,1,FDY6H,Anuar Abd Manap,Anuar bin Abdul Manap,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.03 Pemanis,2,WY5WT,Dr. Arvind,Ariventharan a/l Anandan (Dr Arvind),M,Indian,42,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.03 Pemanis,3,0BVZ3,Jalex Lee,Jalex Lee En Xiang,M,Chinese,35,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.04 Kemelah,1,ABMNX,Raven Kumar Krishnasamy,Raven Kumar a/l Krishnasamy,M,Indian,44,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.04 Kemelah,2,3SJ1C,Afif Hamid,Mohd Afif bin Abd Hamid,M,Malay,37,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.04 Kemelah,3,SS2QA,Uzzair Bin Ismail,Uzzair bin Ismail,M,Malay,43,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.05 Tenang,1,7783N,Siti Aisyah Binti Zobir,Siti Aisyah binti Zobir,F,Malay,36,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.05 Tenang,2,AMY5Y,Cikgu Mala,Normala binti Sudirman (Cikgu Mala),F,Malay,53,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.05 Tenang,3,E2M87,Elia Nadira,Elia Nadira binti Sabudin,F,Malay,43,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.05 Tenang,4,C745G,Mohd Azahar (Tok Ai),Mohd Azahar bin Ibrahim,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.06 Bekok,1,BH41G,Tan Chong,Tan Chong,M,Chinese,61,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.06 Bekok,2,HGAAG,Cikgu Tay Yok Jiuen,Tay Yok Jiuen,F,Chinese,54,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.07 Bukit Kepong,1,56Y9M,Mani,Subramani a/l Chami (Mani),M,Indian,59,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.07 Bukit Kepong,2,MY0CS,Cikgu Syar'E,Ahmad Syar'E bin Yusof,M,Malay,51,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.07 Bukit Kepong,3,19RZR,Dato' Dr Sahruddin Bin Jamal,Sahruddin bin Jamal,M,Malay,51,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.08 Bukit Pasir,1,RBPF2,Idzhar Nasirruddin,Mohd Idzharruddin bin Mohd Nasirruddin,M,Malay,34,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.08 Bukit Pasir,2,BJV6K,Kapten (B) Hj Najib Bin Lep,Najib bin Lep,M,Malay,63,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.08 Bukit Pasir,3,D6DSH,Fazli Salleh,Mohamad Fazli bin Mohamad Salleh,M,Malay,40,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.09 Gambir,1,TX62N,Sahrihan Bin Jani,Sahrihan bin Jani,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.09 Gambir,2,VSCHB,Hj Mohd Nor Mohd Yusof,Mohd Nor bin Mohd Yusof,M,Malay,49,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.09 Gambir,3,QFG0C,Suraya Sulaiman,Suraya binti Sulaiman,F,Malay,45,PN,119-PEJUANG,PEJUANG,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.10 Tangkak,1,Z72KM,Haw Chin Teck,Haw Chin Teck,M,Chinese,56,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.10 Tangkak,2,3GYHF,Ee Chin Li,Ee Chin Li,M,Chinese,44,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.11 Serom,1,2MRNX,Iqa Rahim,Nadhirah Afiqah binti Abdull Rahim,F,Malay,32,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.11 Serom,2,62ER6,Mahfidz Bin Omar,Mahfidz bin Omar,M,Malay,61,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.11 Serom,3,9G4TF,Ahmad Nazari,Ahmad Nazari bin Abd Hamid,M,Malay,68,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.12 Bentayan,1,WQ9J0,Ng Yak Howe,Ng Yak Howe,M,Chinese,53,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.12 Bentayan,2,CXTWR,Chua Lee Huat,Chua Lee Huat,M,Chinese,55,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.13 Simpang Jeram,1,DDMZM,Ir. Ts. Haji Nazri,Nazri bin Abdul Rahman,M,Malay,59,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.13 Simpang Jeram,2,GBGZ1,Azman Bin Ismail,Azman bin Ismail,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.13 Simpang Jeram,3,KS71A,Anie Haziqah Shafii,Nurainie Haziqah binti Shafi'i,F,Malay,36,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.13 Simpang Jeram,4,Q6X3K,Awang,Arshed bin Yahya (Awang),M,Malay,56,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,1,H9DZP,Jeghanaathan,Jeganathan a/l Subramaniam,M,Indian,58,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,2,2C560,Md Ysahrudin,Md Ysahrudin bin Kusni,M,Malay,47,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,3,TMK5W,Mohd Ghazali Bin Sabari,Mohd Ghazali bin Sabari @ Atan,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,4,Y2985,Iskandar Md Alias,Iskandar bin Md Alias,M,Malay,60,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,5,70BRV,Mohd Radzi Bin Amin,Mohd Radzi bin Amin,M,Malay,48,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.15 Maharani,1,4XNCQ,Anuar Hayan,Mohamad Anuar bin Hayan,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.15 Maharani,2,MQ41Z,Dato' Ashari,Ashari bin Md. Sarip,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.15 Maharani,3,8BBF0,Amir Jack,Muhammad Amir Fiqri bin Mustapha,M,Malay,30,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.15 Maharani,4,KGYP8,Taqiuddin Cheman,Muhammad Taqiuddin bin Cheman,M,Malay,38,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.16 Sungai Balang,1,ZEZG9,Cikgu Selamat Takim,Selamat bin Takim,M,Malay,61,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.16 Sungai Balang,2,BS1H9,Amin Sailan,Muhammad Amin bin Sailan @ Sazali,M,Malay,37,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.16 Sungai Balang,3,F6QKJ,Soraya Badaruddin,Ayna Soraya binti Badaruddin,F,Malay,31,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.17 Semerah,1,9R1Q4,Fared Khalid,Mohd Fared bin Mohd Khalid,M,Malay,47,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.17 Semerah,2,D5QSD,Halim Kepol,Othman bin Kepol,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.17 Semerah,3,X4PFN,Mohd Khuzzan Bin Abu Bakar,Mohd Khuzzan bin Abu Bakar,M,Malay,58,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.18 Sri Medan,1,CN7CV,Ustaz Rosdi,Ahmad Rosdi bin Bahari,M,Malay,51,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.18 Sri Medan,2,97HAJ,Zulkurnain Kamisan,Zulkurnain bin Kamisan,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.18 Sri Medan,3,JMDNV,Cikgu Hishamuddin Bin Ishak,Hishamuddin @ Misrin bin Hj.Ishak,M,Malay,66,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.19 Yong Peng,1,998FN,Ah Soon,Ling Tian Soon (Ah Soon),M,Chinese,42,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.19 Yong Peng,2,P23R4,Yong Hui Yi,Yong Hui Yi,F,Chinese,31,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.20 Semarang,1,R8K9Q,Syafiq Aziz,Muhammad Syafiq bin A. Aziz,M,Malay,38,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.20 Semarang,2,777GH,Datuk Samsolbari,Samsolbari bin Jamali,M,Malay,66,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.20 Semarang,3,SFSTD,Ramli Abd Hamid,Ramli bin Abd Hamid,M,Malay,64,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.21 Parit Yaani,1,55J9C,Najib Samuri,Mohamad Najib bin Samuri,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.21 Parit Yaani,2,WXFWP,Md.Ezam Taslim,Md.Ezam bin Taslim,M,Malay,49,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.22 Parit Raja,1,MT77A,Shazwan Zdainal,Shazwan bin Zdainal Abidin,M,Malay,42,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.22 Parit Raja,2,0B5YZ,Dr. Maliki,Mohamed Maliki bin Mohamed Rapiee,M,Malay,52,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.22 Parit Raja,3,192ZM,Rashidah Ramli,Rashidah binti Ramli,F,Malay,55,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.23 Penggaram,1,3RW18,Felicia Poh Rui Ling,Felicia Poh Rui Ling,F,Chinese,28,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.23 Penggaram,2,76J3H,Cl Boo,Boo Chin Liong (CL Boo),M,Chinese,65,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.24 Senggarang,1,TM7QF,Dato' Rashid Hasnon,Mohd Rashid bin Hasnon,M,Malay,66,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.24 Senggarang,2,402M7,Onn Abu Bakar,Onn bin Abu Bakar,M,Malay,63,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.24 Senggarang,3,X5CSB,Yusla Ismail,Mohd Yusla bin Ismail,M,Malay,58,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.25 Rengit,1,AM85T,Syed Mohamad,Syed Mohamad bin Syed Alwi,M,Malay,56,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.25 Rengit,2,BJ56F,Zaidi Bin Japar,Zaidi bin Japar,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.25 Rengit,3,E1Y83,Hj Mohamad Yazid,Mohamad Yazid bin Bakri,M,Malay,54,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.26 Machap,1,HFMAC,Nur Hafiz Roslan,Muhammad Nur Hafiz bin Roslan,M,Malay,41,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.26 Machap,2,S8XFK,Onn Hafiz Ghazi,Onn Hafiz bin Ghazi,M,Malay,47,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.27 Layang-Layang,1,MXACN,Guna Balakrishnan,Guna a/l Balakrishnan,M,Indian,40,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.27 Layang-Layang,2,EY43N,Haji Abd Mutalip,Abd Mutalip bin Abd Rahim,M,Malay,56,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.27 Layang-Layang,3,HCH51,Chua Jian Boon,Chua Jian Boon,M,Chinese,33,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.28 Mengkibol,1,RB0EY,Warren Yap Zhi Peng,Yap Zhi Peng,M,Chinese,36,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.28 Mengkibol,2,VRPH7,Chu Poh Yee,Chu Poh Yee,F,Chinese,33,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.29 Mahkota,1,Z6CKG,Abd Hamid Bin Ali,Abd Hamid bin Ali,M,Malay,56,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.29 Mahkota,2,SZKX9,Syed Hussien,Syed Hussien bin Syed Abdullah,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.29 Mahkota,3,2M2NS,Dr Zuhan,Mohd Zuhan bin Mohd Zain @ Zakaria,M,Malay,47,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.30 Paloh,1,61RR2,Kamaleswaren A/L Ganabathi,Kamaleswaren a/l Ganabathi,M,Indian,44,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.30 Paloh,2,9FETB,Dr.Ruban,Ruban a/l Arumugam (Dr Ruban),M,Indian,42,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.30 Paloh,3,D51S9,Lee Ting Han,Lee Ting Han,M,Chinese,36,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.30 Paloh,4,CX4WM,D.S. Jeevan,Jeevakumar a/l Dayalan,M,Indian,41,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.31 Kahang,1,GATYX,V.Rugendran,Rugendran a/l Vellayan,M,Indian,29,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.31 Kahang,2,KRH16,Imam Sabri,Mohd Sabri bin Abd Kadir,M,Malay,70,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.31 Kahang,3,83S42,Hj Mazlan B. Bujang,Mazlan bin Bujang,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.32 Endau,1,TKX5R,Ustaz Hakimi,Hasnul Hakimi bin Hussien,M,Malay,31,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.32 Endau,2,Y1K81,Jati Bin Awang,Jati bin Awang,M,Orang Asli,52,ASLI,125-ASLI,ASLI,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.32 Endau,3,1F9AA,Saiful Nizam Bin Samat,Saiful Nizam bin Samat,M,Malay,42,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.32 Endau,4,DV1X9,Kak Awi,Alwiyah binti Talib (Kak Awi),F,Malay,65,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.33 Tenggaroh,1,4WZCK,Muhamad Amerul,Muhamad Amerul bin Muhamad,M,Malay,35,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.33 Tenggaroh,2,8JJBH,Youzaimi Yusof,Mohd Youzaimi bin Yusof,M,Malay,52,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.33 Tenggaroh,3,8ANEW,Md Yusof Bin Dawam,Md Yusof bin Dawam,M,Malay,64,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.34 Panti,1,BRBH5,Dr. Naqib Ghazali,Muhammad Naqib bin Md Ghazali,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.34 Panti,2,N4H96,Alias Rasman,Mohamad Alias bin Rasman,M,Malay,35,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.34 Panti,3,P9AMN,Ahmad Daniel,Ahmad Daniel bin Sharudin,M,Malay,54,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.35 Pasir Raja,1,B0KMY,Dr. Adham Baba,Adham bin Baba,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.35 Pasir Raja,2,B2NYW,Yuhanita Yunan,Yuhanita binti Yunan,F,Malay,51,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.35 Pasir Raja,3,X4PS7,Fakharuddin Moslim,Mohd Fakharuddin bin Moslim,M,Malay,38,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.36 Sedili,1,F61KE,Amirul Huzni Onn,Amirul Huzni bin Onn,M,Malay,29,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.36 Sedili,2,AVF2B,Muszaide Makmor,Muszaide bin Makmor,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.36 Sedili,3,GX1KW,Rasman,Rasman bin Ithnain,M,Malay,59,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.37 Johor Lama,1,JKQNQ,Aisah Esa,Aisah binti Esa,F,Malay,52,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.37 Johor Lama,2,P1DR0,Danish Rahman,Danish Hossman bin Abd Rahman,M,Malay,24,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.37 Johor Lama,3,RJ7BF,Norlizah Noh,Norlizah binti Noh,F,Malay,43,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.38 Penawar,1,9PNPW,Fauziah Misri,Fauziah binti Misri,F,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.38 Penawar,2,SF3T9,Sawaludin,Mohd Sawaludin bin Salleh,M,Malay,46,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.38 Penawar,3,JHAGG,Cikgu Nizar,Fairulnizar bin Rahmat,M,Malay,47,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.39 Tanjung Surat,1,WWSWJ,Faizul Abdul Ghani,Faizul bin Abdul Ghani,M,Malay,56,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.39 Tanjung Surat,2,D4BS5,Aznan Tamin,Aznan bin Tamin,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.40 Tiram,1,0B5BV,Dato Hj Abdul Halim Bin Hj Suleiman,Abdul Halim bin Suleiman,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.40 Tiram,2,0AFYV,Nor Zulaila,Nor Zulaila binti Abdul Ghani,F,Malay,38,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.40 Tiram,3,3R614,Dr Harith Fakhrudin,Harith Fakhrudin bin Abdul Malek,M,Malay,41,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.40 Tiram,4,75W3D,Ustaz Khir,Khirul-Muntanazar bin Ismail,M,Malay,53,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,1,AKJ5P,Nicholas Paul Vincent,Nicholas a/l Paul Vincent,M,Indian,36,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,2,E187Z,Wang Wee Siong,Wang Wee Siong,M,Chinese,49,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,3,SY7KF,Dr. Maszlee Malik,Maszlee bin Malik,M,Malay,52,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,4,HEYA8,Rashifa Aljunied,Sharifah Rashifa binti Syed Abdul Rashid Aljunied,F,Malay,27,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,5,MWMCH,Teow Chia Ling (Ms. Teow),Teow Chia Ling,F,Chinese,42,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.42 Johor Jaya,1,RAAET,Hp Lim,Lim Hun Peaw,M,Chinese,54,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.42 Johor Jaya,2,VR0H3,Lau Yi Leong,Lau Yi Leong,M,Chinese,34,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.42 Johor Jaya,3,SPAPT,Chan San San,Chan San San,F,Chinese,46,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.42 Johor Jaya,4,Z5PKC,Lee Wern Yiing,Lee Wern Yiing,F,Chinese,30,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.43 Permas,1,7D2ZY,Baharudin Bin Mohamed Taib,Baharudin bin Mohamed Taib,M,Malay,61,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.43 Permas,2,2KCNN,Sharon Teo,Sharon Teo Siew Hui,F,Chinese,37,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.43 Permas,3,TD0TY,Dr Zamil Najwah,Zamil Najwah bin Arbain,M,Malay,52,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.43 Permas,4,612QY,Vela,Vela a/l Tebakumaran,M,Indian,36,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.44 Larkin,1,9ERT7,Norsinah Abu,Nor Sinah binti Haji Abu,F,Malay,58,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.44 Larkin,2,FK32P,Yb Suhaizan Kayat,Suhaizan bin Kaiat,M,Malay,53,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.44 Larkin,3,ZCXFX,Mohd Hairi Bin Mad Shah,Mohd Hairi bin Mad Shah,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.45 Stulang,1,G27F0,Andrew Chen Kah Eng,Andrew Chen Kah Eng,M,Chinese,51,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.45 Stulang,2,CWEWG,Stanley Tan,Stanley Tan Boon Heng,M,Chinese,54,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.45 Stulang,3,GA4YS,Lim Chin Eng,Lim Chin Eng,M,Chinese,73,PN,107-BERSATU,BERSATU,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.45 Stulang,4,KQV12,Bong Seng Heng,Bong Seng Heng,M,Chinese,46,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.46 Perling,1,Q5H3B,Pannir Selvam,Pannir Selvam,M,Indian,54,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.46 Perling,2,5T6D4,Alan Tee,Alan Tee Boon Tsong,M,Chinese,47,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.46 Perling,3,TK75M,Boo Wei Han,Boo Wei Han,M,Chinese,45,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.47 Kempas,1,ACNTW,Ramlee Bohani,Ramlee bin Bohani,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.47 Kempas,2,Y0X7X,Faezuddin Puad,Muhammad Faezuddin bin Mohd Puad,M,Malay,35,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.47 Kempas,3,1EKA6,Salamahafifi (Fifi),Salamahafifi binti Mohd Yusnaieny,F,Malay,34,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.48 Skudai,1,D3NS1,Nicol @ Ah Kee,Tan Hiang Kee,F,Chinese,43,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.48 Skudai,2,4W9CF,Kartiyaini Jeyapalan,Kartiyaini a/p Jeyapalan,F,Indian,37,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.48 Skudai,3,89ZER,Eugene Chua,Eugene Chua Meng Chong,M,Chinese,47,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.48 Skudai,4,BQNH1,Amir,Amir Syafiq bin Ameer Soekre,M,Malay,40,PSM,074-PSM,PSM,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.49 Kota Iskandar,1,F5BKA,Anna Pravina,Anna Pravina a/p Segaran,F,Indian,27,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.49 Kota Iskandar,2,MNR1Q,Sr. Dzulkefly Ahmad,Dzulkefly bin Ahmad,M,Malay,61,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.49 Kota Iskandar,3,BYWDJ,Datuk Pandak Ahmad,Pandak bin Ahmad,M,Malay,63,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.49 Kota Iskandar,4,JK1NK,Sahrudin Omar,Sahrudin bin Omar @ Kassim,M,Malay,51,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.50 Bukit Permai,1,P0QQW,Aidil Riduan,Muhammad Aidil Riduan bin Mohd Yusof,M,Malay,28,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.50 Bukit Permai,2,SNMPP,Dato' Mohd Jafni Bin Md Shukor,Mohd Jafni bin Md Shukor,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.50 Bukit Permai,3,SEDT5,Mohamad Shafwan,Mohamad Shafwan bin Ani,M,Malay,33,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.50 Bukit Permai,4,WW3WE,Lina,Lina Manoh a/p Manogaran,F,Indian,41,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,1,09SYQ,Kumaran A/L Rama Krishnan,Kumaran a/l Rama Krishnan,M,Indian,56,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,2,T1AF8,Kamaruzaman Bin Ali,Kamaruzaman bin Ali,M,Malay,63,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,3,75639,Tamili.G,Tamili a/p Gopalakrishnan,F,Indian,30,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,4,3YPXH,Arthur Chiong Sen Sern,Arthur Chiong Sen Sern,M,Chinese,36,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,5,AJW5J,Premanand,Premanand a/l Maniam @ Supramaniam,M,Indian,54,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.52 Senai,1,E0J7V,Kiki Tai,Kiki Tai Chee Chee,F,Chinese,32,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.52 Senai,2,HNF6N,Wong Bor Yang,Wong Bor Yang,M,Chinese,40,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.52 Senai,3,HE8A4,Dr. Tew Chian How,Tew Chian How,M,Chinese,37,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
-2026-07-11,SE-16,Johor,N.53 Benut,1,MVYCD,Mohd Sumali Reduan,Mohd Sumali bin Reduan,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.53 Benut,2,R9MEP,Razak Ismail,Abdul Razak bin Ismail,M,Malay,36,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.54 Pulai Sebatang,1,VQAGZ,Haniff Hosman,Haniff @ Ghazali bin Hosman,M,Malay,46,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.54 Pulai Sebatang,2,VYHDG,Hasrunizah Hassan (Azah),Hasrunizah binti Hassan,F,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.55 Pekan Nanas,1,NRT83,Yeo Tung Siong,Yeo Tung Siong,M,Chinese,47,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-07-11,SE-16,Johor,N.55 Pekan Nanas,2,PYMRH,Tan Eng Meng,Tan Eng Meng,M,Chinese,64,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.56 Kukup,1,Z50K8,Hj Israk,Md Israk bin Abdullah,M,Malay,56,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
-2026-07-11,SE-16,Johor,N.56 Kukup,2,2JPNH,Cheah Chee Hong,Cheah Chee Hong,M,Chinese,48,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-07-11,SE-16,Johor,N.01 Buloh Kasap,1,5W8DG,Zahari Sarip,Zahari bin Sarip,M,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,14054,72.0422390814025,1,won
+2026-07-11,SE-16,Johor,N.01 Buloh Kasap,2,P2SR8,Rozy Razit,Noraziah binti Mohd Razit (Rozy),F,Malay,43,PH,078-PKR,PKR,007-PH,PH,5454,27.957760918597497,2,lost
+2026-07-11,SE-16,Johor,N.02 Jementah,1,SGFTH,Saifullah Wahab,Saifullah bin Abdul Wahab,M,Malay,36,PN,004-PAS,PAS,011-PN,PN,2907,10.751534876840003,3,lost_deposit
+2026-07-11,SE-16,Johor,N.02 Jementah,2,FG0GF,See Ann Giap,See Ann Giap,M,Chinese,35,BN,003-MCA,MCA,001-BN,BN,12522,46.31259708558325,1,won
+2026-07-11,SE-16,Johor,N.02 Jementah,3,PBCN1,Ng Kor Sim,Ng Kor Sim,M,Chinese,43,PH,021-DAP,DAP,007-PH,PH,11609,42.935868037576746,2,lost
+2026-07-11,SE-16,Johor,N.03 Pemanis,1,FDY6H,Anuar Abd Manap,Anuar bin Abdul Manap,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,14506,68.11927682554591,1,won
+2026-07-11,SE-16,Johor,N.03 Pemanis,2,WY5WT,Dr. Arvind,Ariventharan a/l Anandan (Dr Arvind),M,Indian,42,PN,113-MIPP,MIPP,011-PN,PN,663,3.11340690302888,3,lost_deposit
+2026-07-11,SE-16,Johor,N.03 Pemanis,3,0BVZ3,Jalex Lee,Jalex Lee En Xiang,M,Chinese,35,PH,078-PKR,PKR,007-PH,PH,6126,28.76731627142522,2,lost
+2026-07-11,SE-16,Johor,N.04 Kemelah,1,ABMNX,Raven Kumar Krishnasamy,Raven Kumar a/l Krishnasamy,M,Indian,44,BN,002-MIC,MIC,001-BN,BN,11893,50.62359000553356,1,won
+2026-07-11,SE-16,Johor,N.04 Kemelah,2,3SJ1C,Afif Hamid,Mohd Afif bin Abd Hamid,M,Malay,37,PH,046-AMANAH,AMANAH,007-PH,PH,8055,34.28680883667475,2,lost
+2026-07-11,SE-16,Johor,N.04 Kemelah,3,SS2QA,Uzzair Bin Ismail,Uzzair bin Ismail,M,Malay,43,PN,107-BERSATU,BERSATU,011-PN,PN,3545,15.089601157791682,3,lost
+2026-07-11,SE-16,Johor,N.05 Tenang,1,7783N,Siti Aisyah Binti Zobir,Siti Aisyah binti Zobir,F,Malay,36,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,164,1.1248285322359397,4,lost_deposit
+2026-07-11,SE-16,Johor,N.05 Tenang,2,AMY5Y,Cikgu Mala,Normala binti Sudirman (Cikgu Mala),F,Malay,53,PN,004-PAS,PAS,011-PN,PN,1412,9.684499314128944,3,lost_deposit
+2026-07-11,SE-16,Johor,N.05 Tenang,3,E2M87,Elia Nadira,Elia Nadira binti Sabudin,F,Malay,43,PH,046-AMANAH,AMANAH,007-PH,PH,4805,32.95610425240055,2,lost
+2026-07-11,SE-16,Johor,N.05 Tenang,4,C745G,Mohd Azahar (Tok Ai),Mohd Azahar bin Ibrahim,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,8199,56.23456790123457,1,won
+2026-07-11,SE-16,Johor,N.06 Bekok,1,BH41G,Tan Chong,Tan Chong,M,Chinese,61,BN,003-MCA,MCA,001-BN,BN,10230,63.15984441563253,1,won
+2026-07-11,SE-16,Johor,N.06 Bekok,2,HGAAG,Cikgu Tay Yok Jiuen,Tay Yok Jiuen,F,Chinese,54,PH,021-DAP,DAP,007-PH,PH,5967,36.84015558436747,2,lost
+2026-07-11,SE-16,Johor,N.07 Bukit Kepong,1,56Y9M,Mani,Subramani a/l Chami (Mani),M,Indian,59,PH,078-PKR,PKR,007-PH,PH,4667,17.493815128570358,3,lost
+2026-07-11,SE-16,Johor,N.07 Bukit Kepong,2,MY0CS,Cikgu Syar'E,Ahmad Syar'E bin Yusof,M,Malay,51,BN,001-UMNO,UMNO,001-BN,BN,16386,61.42139590673964,1,won
+2026-07-11,SE-16,Johor,N.07 Bukit Kepong,3,19RZR,Dato' Dr Sahruddin Bin Jamal,Sahruddin bin Jamal,M,Malay,51,PN,107-BERSATU,BERSATU,011-PN,PN,5625,21.084788964690006,2,lost
+2026-07-11,SE-16,Johor,N.08 Bukit Pasir,1,RBPF2,Idzhar Nasirruddin,Mohd Idzharruddin bin Mohd Nasirruddin,M,Malay,34,PN,107-BERSATU,BERSATU,011-PN,PN,3872,15.668501133052768,3,lost
+2026-07-11,SE-16,Johor,N.08 Bukit Pasir,2,BJV6K,Kapten (B) Hj Najib Bin Lep,Najib bin Lep,M,Malay,63,PH,046-AMANAH,AMANAH,007-PH,PH,6620,26.78860472644869,2,lost
+2026-07-11,SE-16,Johor,N.08 Bukit Pasir,3,D6DSH,Fazli Salleh,Mohamad Fazli bin Mohamad Salleh,M,Malay,40,BN,001-UMNO,UMNO,001-BN,BN,14220,57.54289414049855,1,won
+2026-07-11,SE-16,Johor,N.09 Gambir,1,TX62N,Sahrihan Bin Jani,Sahrihan bin Jani,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,13427,61.0096328607779,1,won
+2026-07-11,SE-16,Johor,N.09 Gambir,2,VSCHB,Hj Mohd Nor Mohd Yusof,Mohd Nor bin Mohd Yusof,M,Malay,49,PH,078-PKR,PKR,007-PH,PH,6693,30.411668484187572,2,lost
+2026-07-11,SE-16,Johor,N.09 Gambir,3,QFG0C,Suraya Sulaiman,Suraya binti Sulaiman,F,Malay,45,PN,119-PEJUANG,PEJUANG,011-PN,PN,1888,8.578698655034533,3,lost_deposit
+2026-07-11,SE-16,Johor,N.10 Tangkak,1,Z72KM,Haw Chin Teck,Haw Chin Teck,M,Chinese,56,BN,003-MCA,MCA,001-BN,BN,14010,56.4055076898301,1,won
+2026-07-11,SE-16,Johor,N.10 Tangkak,2,3GYHF,Ee Chin Li,Ee Chin Li,M,Chinese,44,PH,021-DAP,DAP,007-PH,PH,10828,43.594492310169905,2,lost
+2026-07-11,SE-16,Johor,N.11 Serom,1,2MRNX,Iqa Rahim,Nadhirah Afiqah binti Abdull Rahim,F,Malay,32,BN,001-UMNO,UMNO,001-BN,BN,17213,60.02580555168085,1,won
+2026-07-11,SE-16,Johor,N.11 Serom,2,62ER6,Mahfidz Bin Omar,Mahfidz bin Omar,M,Malay,61,PN,107-BERSATU,BERSATU,011-PN,PN,3656,12.74933742502441,3,lost
+2026-07-11,SE-16,Johor,N.11 Serom,3,9G4TF,Ahmad Nazari,Ahmad Nazari bin Abd Hamid,M,Malay,68,PH,046-AMANAH,AMANAH,007-PH,PH,7807,27.224857023294742,2,lost
+2026-07-11,SE-16,Johor,N.12 Bentayan,1,WQ9J0,Ng Yak Howe,Ng Yak Howe,M,Chinese,53,PH,021-DAP,DAP,007-PH,PH,13917,64.06868612466624,1,won
+2026-07-11,SE-16,Johor,N.12 Bentayan,2,CXTWR,Chua Lee Huat,Chua Lee Huat,M,Chinese,55,BN,003-MCA,MCA,001-BN,BN,7805,35.931313875333764,2,lost
+2026-07-11,SE-16,Johor,N.13 Simpang Jeram,1,DDMZM,Ir. Ts. Haji Nazri,Nazri bin Abdul Rahman,M,Malay,59,PH,046-AMANAH,AMANAH,007-PH,PH,12022,41.02651605637648,1,won
+2026-07-11,SE-16,Johor,N.13 Simpang Jeram,2,GBGZ1,Azman Bin Ismail,Azman bin Ismail,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,11852,40.446370678770094,2,lost
+2026-07-11,SE-16,Johor,N.13 Simpang Jeram,3,KS71A,Anie Haziqah Shafii,Nurainie Haziqah binti Shafi'i,F,Malay,36,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,1467,5.006313346756305,4,lost_deposit
+2026-07-11,SE-16,Johor,N.13 Simpang Jeram,4,Q6X3K,Awang,Arshed bin Yahya (Awang),M,Malay,56,PN,004-PAS,PAS,011-PN,PN,3962,13.520799918097124,3,lost
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,1,H9DZP,Jeghanaathan,Jeganathan a/l Subramaniam,M,Indian,58,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,586,3.3759649729231476,4,lost_deposit
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,2,2C560,Md Ysahrudin,Md Ysahrudin bin Kusni,M,Malay,47,PH,078-PKR,PKR,007-PH,PH,5564,32.0543841456389,2,lost
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,3,TMK5W,Mohd Ghazali Bin Sabari,Mohd Ghazali bin Sabari @ Atan,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,9174,52.851711026615966,1,won
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,4,Y2985,Iskandar Md Alias,Iskandar bin Md Alias,M,Malay,60,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,138,0.7950224680262703,5,lost_deposit
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,5,70BRV,Mohd Radzi Bin Amin,Mohd Radzi bin Amin,M,Malay,48,PN,107-BERSATU,BERSATU,011-PN,PN,1896,10.922917386795714,3,lost_deposit
+2026-07-11,SE-16,Johor,N.15 Maharani,1,4XNCQ,Anuar Hayan,Mohamad Anuar bin Hayan,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,5658,20.83977900552486,3,lost
+2026-07-11,SE-16,Johor,N.15 Maharani,2,MQ41Z,Dato' Ashari,Ashari bin Md. Sarip,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,10570,38.93186003683241,1,won
+2026-07-11,SE-16,Johor,N.15 Maharani,3,8BBF0,Amir Jack,Muhammad Amir Fiqri bin Mustapha,M,Malay,30,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,2495,9.189686924493556,4,lost_deposit
+2026-07-11,SE-16,Johor,N.15 Maharani,4,KGYP8,Taqiuddin Cheman,Muhammad Taqiuddin bin Cheman,M,Malay,38,PH,046-AMANAH,AMANAH,007-PH,PH,8427,31.03867403314917,2,lost
+2026-07-11,SE-16,Johor,N.16 Sungai Balang,1,ZEZG9,Cikgu Selamat Takim,Selamat bin Takim,M,Malay,61,BN,001-UMNO,UMNO,001-BN,BN,13908,60.81329252295584,1,won
+2026-07-11,SE-16,Johor,N.16 Sungai Balang,2,BS1H9,Amin Sailan,Muhammad Amin bin Sailan @ Sazali,M,Malay,37,PN,004-PAS,PAS,011-PN,PN,3980,17.40271097507652,3,lost
+2026-07-11,SE-16,Johor,N.16 Sungai Balang,3,F6QKJ,Soraya Badaruddin,Ayna Soraya binti Badaruddin,F,Malay,31,PH,078-PKR,PKR,007-PH,PH,4982,21.783996501967643,2,lost
+2026-07-11,SE-16,Johor,N.17 Semerah,1,9R1Q4,Fared Khalid,Mohd Fared bin Mohd Khalid,M,Malay,47,BN,001-UMNO,UMNO,001-BN,BN,23206,66.96292021353341,1,won
+2026-07-11,SE-16,Johor,N.17 Semerah,2,D5QSD,Halim Kepol,Othman bin Kepol,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,3906,11.271100851248015,3,lost_deposit
+2026-07-11,SE-16,Johor,N.17 Semerah,3,X4PFN,Mohd Khuzzan Bin Abu Bakar,Mohd Khuzzan bin Abu Bakar,M,Malay,58,PH,078-PKR,PKR,007-PH,PH,7543,21.765978935218584,2,lost
+2026-07-11,SE-16,Johor,N.18 Sri Medan,1,CN7CV,Ustaz Rosdi,Ahmad Rosdi bin Bahari,M,Malay,51,PN,004-PAS,PAS,011-PN,PN,4276,16.081233546446033,2,lost
+2026-07-11,SE-16,Johor,N.18 Sri Medan,2,97HAJ,Zulkurnain Kamisan,Zulkurnain bin Kamisan,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,20090,75.55471981948101,1,won
+2026-07-11,SE-16,Johor,N.18 Sri Medan,3,JMDNV,Cikgu Hishamuddin Bin Ishak,Hishamuddin @ Misrin bin Hj.Ishak,M,Malay,66,PH,078-PKR,PKR,007-PH,PH,2224,8.36404663407296,3,lost_deposit
+2026-07-11,SE-16,Johor,N.19 Yong Peng,1,998FN,Ah Soon,Ling Tian Soon (Ah Soon),M,Chinese,42,BN,003-MCA,MCA,001-BN,BN,13630,60.158008562475175,1,won
+2026-07-11,SE-16,Johor,N.19 Yong Peng,2,P23R4,Yong Hui Yi,Yong Hui Yi,F,Chinese,31,PH,021-DAP,DAP,007-PH,PH,9027,39.841991437524825,2,lost
+2026-07-11,SE-16,Johor,N.20 Semarang,1,R8K9Q,Syafiq Aziz,Muhammad Syafiq bin A. Aziz,M,Malay,38,PN,107-BERSATU,BERSATU,011-PN,PN,2695,12.099308610936518,2,lost_deposit
+2026-07-11,SE-16,Johor,N.20 Semarang,2,777GH,Datuk Samsolbari,Samsolbari bin Jamali,M,Malay,66,BN,001-UMNO,UMNO,001-BN,BN,17374,78.00125707102451,1,won
+2026-07-11,SE-16,Johor,N.20 Semarang,3,SFSTD,Ramli Abd Hamid,Ramli bin Abd Hamid,M,Malay,64,PH,046-AMANAH,AMANAH,007-PH,PH,2205,9.899434318038969,3,lost_deposit
+2026-07-11,SE-16,Johor,N.21 Parit Yaani,1,55J9C,Najib Samuri,Mohamad Najib bin Samuri,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,19665,62.015137180700094,1,won
+2026-07-11,SE-16,Johor,N.21 Parit Yaani,2,WXFWP,Md.Ezam Taslim,Md.Ezam bin Taslim,M,Malay,49,PH,046-AMANAH,AMANAH,007-PH,PH,12045,37.984862819299906,2,lost
+2026-07-11,SE-16,Johor,N.22 Parit Raja,1,MT77A,Shazwan Zdainal,Shazwan bin Zdainal Abidin,M,Malay,42,PH,021-DAP,DAP,007-PH,PH,6176,21.63601331231389,2,lost
+2026-07-11,SE-16,Johor,N.22 Parit Raja,2,0B5YZ,Dr. Maliki,Mohamed Maliki bin Mohamed Rapiee,M,Malay,52,PN,107-BERSATU,BERSATU,011-PN,PN,2617,9.167980381853216,3,lost_deposit
+2026-07-11,SE-16,Johor,N.22 Parit Raja,3,192ZM,Rashidah Ramli,Rashidah binti Ramli,F,Malay,55,BN,001-UMNO,UMNO,001-BN,BN,19752,69.1960063058329,1,won
+2026-07-11,SE-16,Johor,N.23 Penggaram,1,3RW18,Felicia Poh Rui Ling,Felicia Poh Rui Ling,F,Chinese,28,PH,021-DAP,DAP,007-PH,PH,24522,54.60618611797715,1,won
+2026-07-11,SE-16,Johor,N.23 Penggaram,2,76J3H,Cl Boo,Boo Chin Liong (CL Boo),M,Chinese,65,BN,003-MCA,MCA,001-BN,BN,20385,45.39381388202285,2,lost
+2026-07-11,SE-16,Johor,N.24 Senggarang,1,TM7QF,Dato' Rashid Hasnon,Mohd Rashid bin Hasnon,M,Malay,66,PN,107-BERSATU,BERSATU,011-PN,PN,2058,7.419959619267378,3,lost_deposit
+2026-07-11,SE-16,Johor,N.24 Senggarang,2,402M7,Onn Abu Bakar,Onn bin Abu Bakar,M,Malay,63,PH,078-PKR,PKR,007-PH,PH,8881,32.01975771560427,2,lost
+2026-07-11,SE-16,Johor,N.24 Senggarang,3,X5CSB,Yusla Ismail,Mohd Yusla bin Ismail,M,Malay,58,BN,001-UMNO,UMNO,001-BN,BN,16797,60.56028266512835,1,won
+2026-07-11,SE-16,Johor,N.25 Rengit,1,AM85T,Syed Mohamad,Syed Mohamad bin Syed Alwi,M,Malay,56,PN,107-BERSATU,BERSATU,011-PN,PN,1739,8.45241567026344,3,lost_deposit
+2026-07-11,SE-16,Johor,N.25 Rengit,2,BJ56F,Zaidi Bin Japar,Zaidi bin Japar,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,14826,72.0618256051327,1,won
+2026-07-11,SE-16,Johor,N.25 Rengit,3,E1Y83,Hj Mohamad Yazid,Mohamad Yazid bin Bakri,M,Malay,54,PH,046-AMANAH,AMANAH,007-PH,PH,4009,19.48575872460387,2,lost
+2026-07-11,SE-16,Johor,N.26 Machap,1,HFMAC,Nur Hafiz Roslan,Muhammad Nur Hafiz bin Roslan,M,Malay,41,PH,046-AMANAH,AMANAH,007-PH,PH,5007,19.721139075977785,2,lost
+2026-07-11,SE-16,Johor,N.26 Machap,2,S8XFK,Onn Hafiz Ghazi,Onn Hafiz bin Ghazi,M,Malay,47,BN,001-UMNO,UMNO,001-BN,BN,20382,80.27886092402221,1,won
+2026-07-11,SE-16,Johor,N.27 Layang-Layang,1,MXACN,Guna Balakrishnan,Guna a/l Balakrishnan,M,Indian,40,PH,078-PKR,PKR,007-PH,PH,3667,21.271535471895124,2,lost
+2026-07-11,SE-16,Johor,N.27 Layang-Layang,2,EY43N,Haji Abd Mutalip,Abd Mutalip bin Abd Rahim,M,Malay,56,PN,107-BERSATU,BERSATU,011-PN,PN,1993,11.560995417367597,3,lost_deposit
+2026-07-11,SE-16,Johor,N.27 Layang-Layang,3,HCH51,Chua Jian Boon,Chua Jian Boon,M,Chinese,33,BN,003-MCA,MCA,001-BN,BN,11579,67.16746911073727,1,won
+2026-07-11,SE-16,Johor,N.28 Mengkibol,1,RB0EY,Warren Yap Zhi Peng,Yap Zhi Peng,M,Chinese,36,BN,003-MCA,MCA,001-BN,BN,19555,45.13768667913118,2,lost
+2026-07-11,SE-16,Johor,N.28 Mengkibol,2,VRPH7,Chu Poh Yee,Chu Poh Yee,F,Chinese,33,PH,021-DAP,DAP,007-PH,PH,23768,54.86231332086883,1,won
+2026-07-11,SE-16,Johor,N.29 Mahkota,1,Z6CKG,Abd Hamid Bin Ali,Abd Hamid bin Ali,M,Malay,56,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,1546,3.3831542552027485,3,lost_deposit
+2026-07-11,SE-16,Johor,N.29 Mahkota,2,SZKX9,Syed Hussien,Syed Hussien bin Syed Abdullah,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,30398,66.52077816924525,1,won
+2026-07-11,SE-16,Johor,N.29 Mahkota,3,2M2NS,Dr Zuhan,Mohd Zuhan bin Mohd Zain @ Zakaria,M,Malay,47,PH,046-AMANAH,AMANAH,007-PH,PH,13753,30.096067575552006,2,lost
+2026-07-11,SE-16,Johor,N.30 Paloh,1,61RR2,Kamaleswaren A/L Ganabathi,Kamaleswaren a/l Ganabathi,M,Indian,44,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,105,0.6235524674861928,4,lost_deposit
+2026-07-11,SE-16,Johor,N.30 Paloh,2,9FETB,Dr.Ruban,Ruban a/l Arumugam (Dr Ruban),M,Indian,42,PH,021-DAP,DAP,007-PH,PH,4982,29.586079933487735,2,lost
+2026-07-11,SE-16,Johor,N.30 Paloh,3,D51S9,Lee Ting Han,Lee Ting Han,M,Chinese,36,BN,003-MCA,MCA,001-BN,BN,11181,66.39942989488688,1,won
+2026-07-11,SE-16,Johor,N.30 Paloh,4,CX4WM,D.S. Jeevan,Jeevakumar a/l Dayalan,M,Indian,41,PN,113-MIPP,MIPP,011-PN,PN,571,3.3909377041392004,3,lost_deposit
+2026-07-11,SE-16,Johor,N.31 Kahang,1,GATYX,V.Rugendran,Rugendran a/l Vellayan,M,Indian,29,BN,002-MIC,MIC,001-BN,BN,15251,71.73565380997178,1,won
+2026-07-11,SE-16,Johor,N.31 Kahang,2,KRH16,Imam Sabri,Mohd Sabri bin Abd Kadir,M,Malay,70,PH,046-AMANAH,AMANAH,007-PH,PH,3238,15.230479774223896,2,lost
+2026-07-11,SE-16,Johor,N.31 Kahang,3,83S42,Hj Mazlan B. Bujang,Mazlan bin Bujang,M,Malay,61,PN,004-PAS,PAS,011-PN,PN,2771,13.033866415804326,3,lost
+2026-07-11,SE-16,Johor,N.32 Endau,1,TKX5R,Ustaz Hakimi,Hasnul Hakimi bin Hussien,M,Malay,31,PN,004-PAS,PAS,011-PN,PN,5984,32.41779077956552,2,lost
+2026-07-11,SE-16,Johor,N.32 Endau,2,Y1K81,Jati Bin Awang,Jati bin Awang,M,Orang Asli,52,ASLI,125-ASLI,ASLI,000-ALONE,ALONE,394,2.1344601549379707,4,lost_deposit
+2026-07-11,SE-16,Johor,N.32 Endau,3,1F9AA,Saiful Nizam Bin Samat,Saiful Nizam bin Samat,M,Malay,42,PH,078-PKR,PKR,007-PH,PH,2552,13.825234303050001,3,lost
+2026-07-11,SE-16,Johor,N.32 Endau,4,DV1X9,Kak Awi,Alwiyah binti Talib (Kak Awi),F,Malay,65,BN,001-UMNO,UMNO,001-BN,BN,9529,51.6225147624465,1,won
+2026-07-11,SE-16,Johor,N.33 Tenggaroh,1,4WZCK,Muhamad Amerul,Muhamad Amerul bin Muhamad,M,Malay,35,PN,107-BERSATU,BERSATU,011-PN,PN,3912,15.21882902159113,2,lost
+2026-07-11,SE-16,Johor,N.33 Tenggaroh,2,8JJBH,Youzaimi Yusof,Mohd Youzaimi bin Yusof,M,Malay,52,BN,001-UMNO,UMNO,001-BN,BN,19170,74.57693055825715,1,won
+2026-07-11,SE-16,Johor,N.33 Tenggaroh,3,8ANEW,Md Yusof Bin Dawam,Md Yusof bin Dawam,M,Malay,64,PH,078-PKR,PKR,007-PH,PH,2623,10.20424042015172,3,lost_deposit
+2026-07-11,SE-16,Johor,N.34 Panti,1,BRBH5,Dr. Naqib Ghazali,Muhammad Naqib bin Md Ghazali,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,22823,76.55385234629189,1,won
+2026-07-11,SE-16,Johor,N.34 Panti,2,N4H96,Alias Rasman,Mohamad Alias bin Rasman,M,Malay,35,PN,107-BERSATU,BERSATU,011-PN,PN,3115,10.44846208030054,3,lost_deposit
+2026-07-11,SE-16,Johor,N.34 Panti,3,P9AMN,Ahmad Daniel,Ahmad Daniel bin Sharudin,M,Malay,54,PH,046-AMANAH,AMANAH,007-PH,PH,3875,12.997685573407574,2,lost
+2026-07-11,SE-16,Johor,N.35 Pasir Raja,1,B0KMY,Dr. Adham Baba,Adham bin Baba,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,15931,74.9024401711411,1,won
+2026-07-11,SE-16,Johor,N.35 Pasir Raja,2,B2NYW,Yuhanita Yunan,Yuhanita binti Yunan,F,Malay,51,PN,004-PAS,PAS,011-PN,PN,1853,8.712210259062484,3,lost_deposit
+2026-07-11,SE-16,Johor,N.35 Pasir Raja,3,X4PS7,Fakharuddin Moslim,Mohd Fakharuddin bin Moslim,M,Malay,38,PH,078-PKR,PKR,007-PH,PH,3485,16.385349569796418,2,lost
+2026-07-11,SE-16,Johor,N.36 Sedili,1,F61KE,Amirul Huzni Onn,Amirul Huzni bin Onn,M,Malay,29,PH,046-AMANAH,AMANAH,007-PH,PH,693,3.14143245693563,3,lost_deposit
+2026-07-11,SE-16,Johor,N.36 Sedili,2,AVF2B,Muszaide Makmor,Muszaide bin Makmor,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,18790,85.17679057116953,1,won
+2026-07-11,SE-16,Johor,N.36 Sedili,3,GX1KW,Rasman,Rasman bin Ithnain,M,Malay,59,PN,107-BERSATU,BERSATU,011-PN,PN,2577,11.681776971894832,2,lost_deposit
+2026-07-11,SE-16,Johor,N.37 Johor Lama,1,JKQNQ,Aisah Esa,Aisah binti Esa,F,Malay,52,PN,107-BERSATU,BERSATU,011-PN,PN,2097,8.800201435225985,3,lost_deposit
+2026-07-11,SE-16,Johor,N.37 Johor Lama,2,P1DR0,Danish Rahman,Danish Hossman bin Abd Rahman,M,Malay,24,PH,078-PKR,PKR,007-PH,PH,2694,11.305552058416216,2,lost_deposit
+2026-07-11,SE-16,Johor,N.37 Johor Lama,3,RJ7BF,Norlizah Noh,Norlizah binti Noh,F,Malay,43,BN,001-UMNO,UMNO,001-BN,BN,19038,79.8942465063578,1,won
+2026-07-11,SE-16,Johor,N.38 Penawar,1,9PNPW,Fauziah Misri,Fauziah binti Misri,F,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,19213,82.1173654742061,1,won
+2026-07-11,SE-16,Johor,N.38 Penawar,2,SF3T9,Sawaludin,Mohd Sawaludin bin Salleh,M,Malay,46,PH,046-AMANAH,AMANAH,007-PH,PH,747,3.1927170150019233,3,lost_deposit
+2026-07-11,SE-16,Johor,N.38 Penawar,3,JHAGG,Cikgu Nizar,Fairulnizar bin Rahmat,M,Malay,47,PN,107-BERSATU,BERSATU,011-PN,PN,3437,14.68991751079198,2,lost
+2026-07-11,SE-16,Johor,N.39 Tanjung Surat,1,WWSWJ,Faizul Abdul Ghani,Faizul bin Abdul Ghani,M,Malay,56,PH,078-PKR,PKR,007-PH,PH,1831,9.485080812266888,2,lost_deposit
+2026-07-11,SE-16,Johor,N.39 Tanjung Surat,2,D4BS5,Aznan Tamin,Aznan bin Tamin,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,17473,90.51491918773311,1,won
+2026-07-11,SE-16,Johor,N.40 Tiram,1,0B5BV,Dato Hj Abdul Halim Bin Hj Suleiman,Abdul Halim bin Suleiman,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,49965,60.10537838780691,1,won
+2026-07-11,SE-16,Johor,N.40 Tiram,2,0AFYV,Nor Zulaila,Nor Zulaila binti Abdul Ghani,F,Malay,38,PH,021-DAP,DAP,007-PH,PH,21710,26.116036521550846,2,lost
+2026-07-11,SE-16,Johor,N.40 Tiram,3,3R614,Dr Harith Fakhrudin,Harith Fakhrudin bin Abdul Malek,M,Malay,41,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2229,2.6813747308400195,4,lost_deposit
+2026-07-11,SE-16,Johor,N.40 Tiram,4,75W3D,Ustaz Khir,Khirul-Muntanazar bin Ismail,M,Malay,53,PN,004-PAS,PAS,011-PN,PN,9225,11.097210359802236,3,lost_deposit
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,1,AKJ5P,Nicholas Paul Vincent,Nicholas a/l Paul Vincent,M,Indian,36,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2332,2.700824608542574,4,lost_deposit
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,2,E187Z,Wang Wee Siong,Wang Wee Siong,M,Chinese,49,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,227,0.2629018808486982,5,lost_deposit
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,3,SY7KF,Dr. Maszlee Malik,Maszlee bin Malik,M,Malay,52,PH,078-PKR,PKR,007-PH,PH,41821,48.43532845362735,1,won
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,4,HEYA8,Rashifa Aljunied,Sharifah Rashifa binti Syed Abdul Rashid Aljunied,F,Malay,27,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,5887,6.818076531084963,3,lost_deposit
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,5,MWMCH,Teow Chia Ling (Ms. Teow),Teow Chia Ling,F,Chinese,42,BN,003-MCA,MCA,001-BN,BN,36077,41.78286852589642,2,lost
+2026-07-11,SE-16,Johor,N.42 Johor Jaya,1,RAAET,Hp Lim,Lim Hun Peaw,M,Chinese,54,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,195,0.2913927077106993,4,lost_deposit
+2026-07-11,SE-16,Johor,N.42 Johor Jaya,2,VR0H3,Lau Yi Leong,Lau Yi Leong,M,Chinese,34,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2051,3.064853556485356,3,lost_deposit
+2026-07-11,SE-16,Johor,N.42 Johor Jaya,3,SPAPT,Chan San San,Chan San San,F,Chinese,46,BN,003-MCA,MCA,001-BN,BN,35971,53.752241482367005,1,won
+2026-07-11,SE-16,Johor,N.42 Johor Jaya,4,Z5PKC,Lee Wern Yiing,Lee Wern Yiing,F,Chinese,30,PH,021-DAP,DAP,007-PH,PH,28703,42.89151225343694,2,lost
+2026-07-11,SE-16,Johor,N.43 Permas,1,7D2ZY,Baharudin Bin Mohamed Taib,Baharudin bin Mohamed Taib,M,Malay,61,BN,001-UMNO,UMNO,001-BN,BN,51274,64.77097597332053,1,won
+2026-07-11,SE-16,Johor,N.43 Permas,2,2KCNN,Sharon Teo,Sharon Teo Siew Hui,F,Chinese,37,PH,046-AMANAH,AMANAH,007-PH,PH,21769,27.499305222202576,2,lost
+2026-07-11,SE-16,Johor,N.43 Permas,3,TD0TY,Dr Zamil Najwah,Zamil Najwah bin Arbain,M,Malay,52,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,3147,3.9753922336474576,3,lost_deposit
+2026-07-11,SE-16,Johor,N.43 Permas,4,612QY,Vela,Vela a/l Tebakumaran,M,Indian,36,PN,113-MIPP,MIPP,011-PN,PN,2972,3.754326570829438,4,lost_deposit
+2026-07-11,SE-16,Johor,N.44 Larkin,1,9ERT7,Norsinah Abu,Nor Sinah binti Haji Abu,F,Malay,58,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2737,5.450128437443995,3,lost_deposit
+2026-07-11,SE-16,Johor,N.44 Larkin,2,FK32P,Yb Suhaizan Kayat,Suhaizan bin Kaiat,M,Malay,53,PH,046-AMANAH,AMANAH,007-PH,PH,13600,27.08138354009439,2,lost
+2026-07-11,SE-16,Johor,N.44 Larkin,3,ZCXFX,Mohd Hairi Bin Mad Shah,Mohd Hairi bin Mad Shah,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,33882,67.46848802246161,1,won
+2026-07-11,SE-16,Johor,N.45 Stulang,1,G27F0,Andrew Chen Kah Eng,Andrew Chen Kah Eng,M,Chinese,51,PH,021-DAP,DAP,007-PH,PH,17560,47.32260759425445,1,won
+2026-07-11,SE-16,Johor,N.45 Stulang,2,CWEWG,Stanley Tan,Stanley Tan Boon Heng,M,Chinese,54,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,1372,3.697415581965667,3,lost_deposit
+2026-07-11,SE-16,Johor,N.45 Stulang,3,GA4YS,Lim Chin Eng,Lim Chin Eng,M,Chinese,73,PN,107-BERSATU,BERSATU,011-PN,PN,1238,3.336297733581265,4,lost_deposit
+2026-07-11,SE-16,Johor,N.45 Stulang,4,KQV12,Bong Seng Heng,Bong Seng Heng,M,Chinese,46,BN,003-MCA,MCA,001-BN,BN,16937,45.64367909019861,2,lost
+2026-07-11,SE-16,Johor,N.46 Perling,1,Q5H3B,Pannir Selvam,Pannir Selvam,M,Indian,54,BN,002-MIC,MIC,001-BN,BN,33468,48.98640242385211,1,won
+2026-07-11,SE-16,Johor,N.46 Perling,2,5T6D4,Alan Tee,Alan Tee Boon Tsong,M,Chinese,47,PH,021-DAP,DAP,007-PH,PH,31857,46.62841586042359,2,lost
+2026-07-11,SE-16,Johor,N.46 Perling,3,TK75M,Boo Wei Han,Boo Wei Han,M,Chinese,45,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2996,4.385181715724301,3,lost_deposit
+2026-07-11,SE-16,Johor,N.47 Kempas,1,ACNTW,Ramlee Bohani,Ramlee bin Bohani,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,28146,65.2192047455742,1,won
+2026-07-11,SE-16,Johor,N.47 Kempas,2,Y0X7X,Faezuddin Puad,Muhammad Faezuddin bin Mohd Puad,M,Malay,35,PH,078-PKR,PKR,007-PH,PH,13193,30.570488460468997,2,lost
+2026-07-11,SE-16,Johor,N.47 Kempas,3,1EKA6,Salamahafifi (Fifi),Salamahafifi binti Mohd Yusnaieny,F,Malay,34,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,1817,4.210306793956808,3,lost_deposit
+2026-07-11,SE-16,Johor,N.48 Skudai,1,D3NS1,Nicol @ Ah Kee,Tan Hiang Kee,F,Chinese,43,BN,003-MCA,MCA,001-BN,BN,24541,36.19776686284054,2,lost
+2026-07-11,SE-16,Johor,N.48 Skudai,2,4W9CF,Kartiyaini Jeyapalan,Kartiyaini a/p Jeyapalan,F,Indian,37,PH,021-DAP,DAP,007-PH,PH,39821,58.7356372700857,1,won
+2026-07-11,SE-16,Johor,N.48 Skudai,3,89ZER,Eugene Chua,Eugene Chua Meng Chong,M,Chinese,47,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2471,3.644704042951753,3,lost_deposit
+2026-07-11,SE-16,Johor,N.48 Skudai,4,BQNH1,Amir,Amir Syafiq bin Ameer Soekre,M,Malay,40,PSM,074-PSM,PSM,000-ALONE,ALONE,964,1.4218918241220113,4,lost_deposit
+2026-07-11,SE-16,Johor,N.49 Kota Iskandar,1,F5BKA,Anna Pravina,Anna Pravina a/p Segaran,F,Indian,27,PN,113-MIPP,MIPP,011-PN,PN,3249,3.589341346472525,3,lost_deposit
+2026-07-11,SE-16,Johor,N.49 Kota Iskandar,2,MNR1Q,Sr. Dzulkefly Ahmad,Dzulkefly bin Ahmad,M,Malay,61,PH,046-AMANAH,AMANAH,007-PH,PH,31686,35.005192337435645,2,lost
+2026-07-11,SE-16,Johor,N.49 Kota Iskandar,3,BYWDJ,Datuk Pandak Ahmad,Pandak bin Ahmad,M,Malay,63,BN,001-UMNO,UMNO,001-BN,BN,52892,58.43257694602178,1,won
+2026-07-11,SE-16,Johor,N.49 Kota Iskandar,4,JK1NK,Sahrudin Omar,Sahrudin bin Omar @ Kassim,M,Malay,51,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,2691,2.972889370070041,4,lost_deposit
+2026-07-11,SE-16,Johor,N.50 Bukit Permai,1,P0QQW,Aidil Riduan,Muhammad Aidil Riduan bin Mohd Yusof,M,Malay,28,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,792,2.433030228557385,3,lost_deposit
+2026-07-11,SE-16,Johor,N.50 Bukit Permai,2,SNMPP,Dato' Mohd Jafni Bin Md Shukor,Mohd Jafni bin Md Shukor,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,21870,67.1848119931187,1,won
+2026-07-11,SE-16,Johor,N.50 Bukit Permai,3,SEDT5,Mohamad Shafwan,Mohamad Shafwan bin Ani,M,Malay,33,PH,021-DAP,DAP,007-PH,PH,9149,28.105799950847874,2,lost
+2026-07-11,SE-16,Johor,N.50 Bukit Permai,4,WW3WE,Lina,Lina Manoh a/p Manogaran,F,Indian,41,PN,113-MIPP,MIPP,011-PN,PN,741,2.2763578274760383,4,lost_deposit
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,1,09SYQ,Kumaran A/L Rama Krishnan,Kumaran a/l Rama Krishnan,M,Indian,56,BN,002-MIC,MIC,001-BN,BN,16899,47.69552087155316,1,won
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,2,T1AF8,Kamaruzaman Bin Ali,Kamaruzaman bin Ali,M,Malay,63,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,599,1.6906099178685332,4,lost_deposit
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,3,75639,Tamili.G,Tamili a/p Gopalakrishnan,F,Indian,30,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,821,2.3171798707346674,3,lost_deposit
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,4,3YPXH,Arthur Chiong Sen Sern,Arthur Chiong Sen Sern,M,Chinese,36,PH,078-PKR,PKR,007-PH,PH,16725,47.20442550309051,2,lost
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,5,AJW5J,Premanand,Premanand a/l Maniam @ Supramaniam,M,Indian,54,MUDA,120-MUDA,MUDA,000-ALONE,ALONE,387,1.0922638367531257,5,lost_deposit
+2026-07-11,SE-16,Johor,N.52 Senai,1,E0J7V,Kiki Tai,Kiki Tai Chee Chee,F,Chinese,32,BN,003-MCA,MCA,001-BN,BN,20412,44.28246013667426,2,lost
+2026-07-11,SE-16,Johor,N.52 Senai,2,HNF6N,Wong Bor Yang,Wong Bor Yang,M,Chinese,40,PH,021-DAP,DAP,007-PH,PH,24007,52.081570669269986,1,won
+2026-07-11,SE-16,Johor,N.52 Senai,3,HE8A4,Dr. Tew Chian How,Tew Chian How,M,Chinese,37,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,1676,3.635969194055754,3,lost_deposit
+2026-07-11,SE-16,Johor,N.53 Benut,1,MVYCD,Mohd Sumali Reduan,Mohd Sumali bin Reduan,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,18492,86.88624723958088,1,won
+2026-07-11,SE-16,Johor,N.53 Benut,2,R9MEP,Razak Ismail,Abdul Razak bin Ismail,M,Malay,36,PH,046-AMANAH,AMANAH,007-PH,PH,2791,13.113752760419114,2,lost
+2026-07-11,SE-16,Johor,N.54 Pulai Sebatang,1,VQAGZ,Haniff Hosman,Haniff @ Ghazali bin Hosman,M,Malay,46,PH,078-PKR,PKR,007-PH,PH,9786,29.509679753935224,2,lost
+2026-07-11,SE-16,Johor,N.54 Pulai Sebatang,2,VYHDG,Hasrunizah Hassan (Azah),Hasrunizah binti Hassan,F,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,23376,70.49032024606477,1,won
+2026-07-11,SE-16,Johor,N.55 Pekan Nanas,1,NRT83,Yeo Tung Siong,Yeo Tung Siong,M,Chinese,47,PH,021-DAP,DAP,007-PH,PH,7670,27.768726693457875,2,lost
+2026-07-11,SE-16,Johor,N.55 Pekan Nanas,2,PYMRH,Tan Eng Meng,Tan Eng Meng,M,Chinese,64,BN,003-MCA,MCA,001-BN,BN,19951,72.23127330654212,1,won
+2026-07-11,SE-16,Johor,N.56 Kukup,1,Z50K8,Hj Israk,Md Israk bin Abdullah,M,Malay,56,BN,001-UMNO,UMNO,001-BN,BN,18399,72.31174343656657,1,won
+2026-07-11,SE-16,Johor,N.56 Kukup,2,2JPNH,Cheah Chee Hong,Cheah Chee Hong,M,Chinese,48,PH,078-PKR,PKR,007-PH,PH,7045,27.688256563433423,2,lost
 1967-04-08,SE-01,Sabah,N.01 Kudat,1,5Q2B3,O. T. Tsen Kinsung,Tsen Kinsung,M,Chinese,-1,PPKB,022-UPKO,UPKO,001-PERIKATAN,PERIKATAN,1697,35.141851314972044,2,lost
 1967-04-08,SE-01,Sabah,N.01 Kudat,2,94RDC,Wong Loke Khiam,Wong Loke Khiam,M,Chinese,-1,SCA,017-SCA-SBH,SCA,001-PERIKATAN,PERIKATAN,3132,64.85814868502796,1,won
 1967-04-08,SE-01,Sabah,N.02 Bengkoka-Banggi,1,CJEFN,Tun Datu Mustapha Bin Datu Harun,Mustapha bin Harun,M,Bumi Sabah,49,USNO,014-USNO,USNO,001-PERIKATAN,PERIKATAN,4690,69.69832070144152,1,won
@@ -26749,7 +26749,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,2,NMP7B,Mohamed Nabi,Mohamed Nabi Bux bin Mohd Nabi Abd Sathar,M,Malay,63,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,799,1.7426770485724878,3,lost_deposit
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,3,S2C9M,Ramkarpal Singh,Ramkarpal Singh a/l Karpal Singh,M,Other,38,DAP,021-DAP,DAP,007-PR,PR,41242,89.95179829440119,1,won
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,4,WG2BX,Abu Backer Sidek,Abu Backer Sidek bin Mohammad Zan,M,Malay,46,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,225,0.49074134659425506,4,lost_deposit
-2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,1,Y7DH6,Mah Siew Keong,Mah Siew Keong,M,Chinese,53,BN,003-MCA,MCA,001-BN,BN,20157,50.29693582193831,1,won
+2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,1,Y7DH6,Mah Siew Keong,Mah Siew Keong,M,Chinese,53,BN,026-GERAKAN,GERAKAN,001-BN,BN,20157,50.29693582193831,1,won
 2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,2,ZXRE6,Dyana Sofya Binti Mohd Daud,Dyana Sofya binti Mohd Daud,F,Malay,27,DAP,021-DAP,DAP,007-PR,PR,19919,49.70306417806169,2,lost
 2014-09-25,BY-ELECTION,Kelantan,N.01 Pengkalan Kubor,1,3VYKF,Izat Bukhary,Izat Bukhary bin Ismail Bukhary,M,Malay,47,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,38,0.21933621933621933,3,lost_deposit
 2014-09-25,BY-ELECTION,Kelantan,N.01 Pengkalan Kubor,2,3BEGF,Wan Rosdi,Wan Rosdi bin Mat Rasik,M,Malay,45,PAS,004-PAS,PAS,007-PR,PR,7326,42.285714285714285,2,lost
