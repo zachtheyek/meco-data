@@ -18072,7 +18072,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,1,V538W,Subramaniam A/L Purushothama,Subramaniam a/l Purushothama,M,Indian,63,PN,107-BERSATU,BERSATU,011-PN,PN,4942,16.20912460231559,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,2,YJSB5,Ahmad Zamali Mohamad,Ahmad Zamali bin Mohamad,M,Malay,50,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,921,3.0207615861458232,3,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,3,NXZDT,Nicole Tan Lee Koon,Nicole Tan Lee Koon,F,Chinese,52,PH,021-DAP,DAP,007-PH,PH,24626,80.7701138115386,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.22 Rahang,1,20FDE,Siau Meow Kong,Siau Meow Kong,M,Chinese,51,PH,021-DAP,DAP,007-PH,PH,9868,74.17318099819603,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.22 Rahang,1,20FDE,Siau Meow Kong,Desmond Siau Meow Kong,M,Chinese,51,PH,021-DAP,DAP,007-PH,PH,9868,74.17318099819603,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.22 Rahang,2,5E5FQ,Lee Boon Shian,Lee Boon Shian,M,Chinese,38,PN,026-GERAKAN,GERAKAN,011-PN,PN,3436,25.82681900180397,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.23 Mambau,1,Z940W,Yap Yew Weng,Yap Yew Weng,M,Chinese,60,PH,021-DAP,DAP,007-PH,PH,17039,88.28039997927569,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.23 Mambau,2,8VVJ0,Kumaravel A/L Ramiah,Kumaravel a/l Ramiah,M,Indian,51,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,163,0.8445158281954304,3,lost_deposit
@@ -18104,6 +18104,109 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2023-08-12,SE-15,Negeri Sembilan,N.35 Gemencheh,2,6J8V2,Suhaimizan Bizar (Hai),Suhaimizan bin Bizar (Hai),M,Malay,40,BN,001-UMNO,UMNO,001-BN,BN,8905,57.914932362122784,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.36 Repah,1,9ZYXB,Elaine Yong Li Yi,Elaine Yong Li Yi,F,Malay,34,PN,026-GERAKAN,GERAKAN,011-PN,PN,5557,32.565635255508674,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.36 Repah,2,DGQHV,Veerapan A/L Superamaniam,Veerapan a/l Superamaniam,M,Indian,48,PH,021-DAP,DAP,007-PH,PH,11507,67.43436474449133,1,won
+2026-08-01,SE-16,Negeri Sembilan,N.01 Chennah,1,60CQT,Siow Kong Choon (John),Siow Kong Choon,M,Chinese,38,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.01 Chennah,2,VVDYK,Loke Siew Fook,Anthony Loke Siew Fook,M,Chinese,49,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.02 Pertang,1,APZK6,Jalaluddin Bin Alias,Jalaluddin bin Alias,M,Malay,63,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.02 Pertang,2,9E2T3,Mohd Umry,Mohd Umry bin Abdul Khois,M,Malay,34,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.02 Pertang,3,CVRWC,Bang Chik (Faizal),Mohd Faizal Fadli bin Mohd Idrus,M,Malay,38,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.03 Sungai Lui,1,70PM4,Mohd. Razi Bin Mohd. Ali,Mohd Razi bin Mohd Ali,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.03 Sungai Lui,2,G9EYN,Mazrulhisham Bin Abd Mansor,Mazrulhisham bin Abd Mansor,M,Malay,51,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.03 Sungai Lui,3,F399C,Cikgu Zainal Fikri,Zainal Fikri bin Abd Kadir,M,Malay,54,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.04 Klawang,1,KQ50Y,Adib Musa,Muhammad Adib bin Musa,M,Malay,25,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.04 Klawang,2,XENZT,Danni Rais,Danni Rais,M,Malay,39,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.04 Klawang,3,JGZBN,Bakri Sawir,Bakri bin Sawir,M,Malay,67,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.05 Serting,1,AGSVM,Ustaz Fairuz Isa,Mohd Fairuz bin Mohd Isa,M,Malay,50,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.05 Serting,2,BQAC6,Affendy Salleh,Muhammad Noraffendy bin Mohd Salleh,M,Malay,38,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.05 Serting,3,Q4V37,Yaacob Mahmood,Yaacob bin Mahmood,M,Malay,63,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.06 Palong,1,3NDQ2,Mustapha Nagoor @ Pak Mus,Mustapha bin Nagoor,M,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.06 Palong,2,TJH5G,Zahin Zinal @ Bong,Muhammad Zahin bin Zinal Abidin,M,Malay,34,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.06 Palong,3,E4NNF,Rebin Bin Birham,Rebin bin Birham,M,Malay,51,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.07 Jeram Padang,1,Y077S,Sanjeevan,Sri Sanjeevan a/l Ramakrishnan,M,Indian,42,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.07 Jeram Padang,2,W194E,Manivanan Gowin,G. Manivannan a/l Gowindasamy,M,Indian,51,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.07 Jeram Padang,3,1DXA2,Dayana Binti Dal,Dayana binti Dal,F,Orang Asli,40,ASLI,125-ASLI,ASLI,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.07 Jeram Padang,4,7QR6N,Mohd Zaidy Bin Abdul Kadir,Mohd Zaidy bin Abdul Kadir,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.08 Bahau,1,DHDHZ,Teo Kok Seong,Teo Kok Seong,M,Chinese,47,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.08 Bahau,2,4VKCB,Chong Fui Ming,Chong Fui Ming,M,Chinese,49,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.09 Lenggeng,1,899EM,Hajah Zarinna,Zarinna binti Abu Zarin,F,Malay,57,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.09 Lenggeng,2,EK4B7,Hj Asna,Mohd Asna bin Amin,M,Malay,47,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.09 Lenggeng,3,BPZGX,Zool Amali Bin Hussin,Zool Amali bin Hussin,M,Malay,46,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.10 Nilai,1,R999V,Zamani Ibrahim,Zamani bin Ibrahim,M,Malay,62,BERJASA,036-BERJASA,BERJASA,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.10 Nilai,2,G4ZFG,J. Arul Kumar,Arul Kumar a/l Jambunathan,M,Indian,41,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.10 Nilai,3,J0TDG,Omar Mohd Isa,Omar bin Mohd Isa,M,Malay,61,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.10 Nilai,4,F4NK6,Alan Lai,Alan Lai Chien Kong,M,Chinese,54,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.10 Nilai,5,JJBNF,Saravana Kumar A/L Veerasamy,Saravana Kumar a/l Veerasamy,M,Indian,53,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.11 Lobak,1,8VV8E,P.M. Kumar,Kumar a/l S. Paramasivam,M,Indian,57,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.11 Lobak,2,VJV1T,Chew Seh Yong,Chew Seh Yong,M,Chinese,64,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.12 Temiang,1,P01QR,Ho Weng Wah,Ho Weng Wah,M,Chinese,42,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.12 Temiang,2,5YADW,Leaw Kok Chan,Leaw Kok Chan,M,Chinese,51,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.12 Temiang,3,SDQT1,Fazly Bin Hamid,Fazly bin Hamid,M,Malay,48,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.13 Sikamat,1,WVDWA,Tun Faisal,Tun Faisal Ismail bin Aziz,M,Malay,55,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.13 Sikamat,2,093YK,Datuk Razali,Razali bin Abu Samah,M,Malay,61,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.13 Sikamat,3,F0641,Nor Azman Mohamad,Nor Azman bin Mohamad,M,Malay,47,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.14 Ampangan,1,3PT0W,Nazri Kassim,Muhammad Nazri bin Kassim,M,Malay,56,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.14 Ampangan,2,74G35,Azzah Harun,Noor'Azah binti Harun (Azzah),F,Malay,48,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.14 Ampangan,3,38069,Dato' Dr Mohamad Rafie Bin Ab Malek,Mohamad Rafie bin Ab Malek,M,Malay,62,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.15 Juasseh,1,AJ65E,Mohd Zuhaimi Md Yusof,Mohd Zuhaimi bin Md Yusof,M,Malay,60,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.15 Juasseh,2,B85PA,Dato' Ismail Bin Lasim,Ismail bin Lasim,M,Malay,67,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.15 Juasseh,3,DZW7Q,Aidil,Mohd Aidil bin Abdullah,M,Malay,52,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.16 Seri Menanti,1,DEAZR,Ustaz Sufian,Muhammad Sufian bin Maradzi,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.16 Seri Menanti,2,HDJA0,Kamarul Arifin Wafa,Mohd Kamarul Arifin bin Mohd Wafa,M,Malay,46,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.16 Seri Menanti,3,MV8C9,Dato' Seri Megat,Megat D.Shahriman bin Zaharudin,M,Malay,43,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.17 Senaling,1,R8YEJ,Mohamad Qayyum Bin Abd Jalil,Mohamad Qayyum bin Abd Jalil,M,Malay,36,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.17 Senaling,2,VPMGV,Mohd Izaffi,Mohd Izaffi bin Istear Khan,M,Malay,41,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.17 Senaling,3,Z4AK4,Hanis Alimin,Mohd Hanis bin Mohd Alimin,M,Malay,37,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.18 Pilah,1,2J0ND,S Leza,S Leza binti Md Yasin,F,Malay,60,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.18 Pilah,2,M9Q4A,Noorzunita Begum,Noorzunita Begum binti Mohd Ibrahim,F,Malay,46,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.19 Johol,1,5ZPQP,Zailan Munawar,Mohd Zailan bin Mohd Munawar,M,Malay,61,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.19 Johol,2,BMX6Z,Hj Saiful Yazan Sulaiman,Saiful Yazan bin Sulaiman,M,Malay,60,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.20 Labu,1,9DCSZ,Dato' Ahmad Faez,Ahmad Faez bin Abdul Razak,M,Malay,41,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.20 Labu,2,QQD6K,Anip Abu Baker,Mohamad Hanifah bin Abu Baker (Anip Abu Baker),M,Malay,46,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.20 Labu,3,CV2W8,Maira Hasim,Siti Nur Umaira binti Hasim,F,Malay,36,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.21 Bukit Kepayang,1,NXZDT,Nicole Tan,Nicole Tan Lee Koon,F,Chinese,55,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.21 Bukit Kepayang,2,5E5FQ,Ah Boon,Lee Boon Shian,M,Chinese,41,PN,026-GERAKAN,GERAKAN,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.22 Rahang,1,20FDE,Siau Meow Kong,Desmond Siau Meow Kong,M,Chinese,54,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.22 Rahang,2,AJH0Q,Cikgu Tina,Tinagaran a/l Subramaniam,M,Indian,49,PSM,074-PSM,PSM,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.22 Rahang,3,SBNG3,Yap Siok Moy (Ah Moy),Yap Siok Moy,F,Chinese,61,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.22 Rahang,4,49C48,Tang Jay Son,Tang Jay Son,M,Chinese,52,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.23 Mambau,1,G8RYH,Lee Kai Yet,Lee Kai Yet,M,Chinese,43,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.23 Mambau,2,KPF0T,Sarawanan Nagayah,Sarawanan a/l Nagayah,M,Indian,45,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.23 Mambau,3,Q4533,Erik A/L Michael,Erik a/l Michael,M,Indian,44,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.24 Seremban Jaya,1,G6PMK,Thinalan T Rajagopalu,Thinalan a/l T Rajagopalu,M,Indian,48,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.24 Seremban Jaya,2,THV5C,Mahendran Ramasamy,Mahendran a/l Ramasamy,M,Indian,42,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.24 Seremban Jaya,3,XZH7N,S. Mugunthan,Mugunthan a/l Subramaniam,M,Indian,40,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.25 Paroi,1,1D79Y,Ustaz Shahir,Ahmad Shahir bin Mohd Shah,M,Malay,41,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.25 Paroi,2,69NB5,Hj. Nazree Yunus,Mohd Nazree bin Mohd Yunus,M,Malay,42,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.25 Paroi,3,H92TV,Hj Kamarol Ridzuan,Kamarol Ridzuan bin Mohd Zain,M,Malay,59,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.26 Chembong,1,4TXC7,Danish Nazran,Danish Nazran bin Murad,M,Malay,27,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.26 Chembong,2,0YRM6,Dato' Haji Zaifulbahri Bin Haji Idris,Zaifulbahri bin Idris,M,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.27 Rantau,1,88KEG,Dr Hakim,Azizul Hakim bin Mahdi,M,Malay,35,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.27 Rantau,2,P455C,Tok Mat,Mohamad bin Hasan (Tok Mat),M,Malay,70,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.28 Kota,1,BP9GS,Akmal @ Aboy,Akmal Noradzmi bin Abd Rahim,M,Malay,35,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.28 Kota,2,F3ZK2,Ust Allif Ibrahim,Muhammad Allif bin Ibrahim,M,Malay,35,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.28 Kota,3,XDZZP,Suhaimi Aini,Suhaimi bin Aini,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.29 Chuah,1,JHNNB,Ah Pau,Pau Jeou Ching,M,Chinese,41,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.29 Chuah,2,7Q26H,Yew Boon Lye,Yew Boon Lye,M,Chinese,55,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.30 Lukut,1,2FYBF,Choo Ken Hwa,Choo Ken Hwa,M,Chinese,49,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.30 Lukut,2,C9HM9,Sathes,Sathes Kumar a/l Nilameham,M,Indian,46,PN,113-MIPP,MIPP,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.30 Lukut,3,NZBQM,Ah Lee,Teo Seng Lee (Ah Lee),M,Chinese,66,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.31 Bagan Pinang,1,SD1SX,Sheikh Junaidy,Sheikh Junaidy bin Jamaludin,M,Malay,54,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.31 Bagan Pinang,2,EJEB3,Ustaz Fatah,Abdul Fatah bin Zakaria,M,Malay,60,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.31 Bagan Pinang,3,WTQW6,Nasir Raman,Nasir bin Raman,M,Malay,56,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.32 Linggi,1,NDTFN,Dato' Hj. Zamri Md Said,Zamri bin Md Said,M,Malay,55,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.32 Linggi,2,AP9K2,Dato' Mohd Faizal Ramli,Mohd Faizal bin Ramli,M,Malay,55,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.32 Linggi,3,YNVXC,Aminuddin Harun,Aminuddin bin Harun,M,Malay,59,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.33 Sri Tanjung,1,08DYF,Acu,Achuthan a/l Alagan (Acu),M,Indian,54,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.33 Sri Tanjung,2,3P40R,Datuk A. Saravanan,Saravanan a/l Arumugam,M,Indian,48,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.33 Sri Tanjung,3,73T31,Leevinesh Murugan,Leevineshwaraan a/l Murugan,M,Indian,24,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.33 Sri Tanjung,4,AHG5A,Islah Wahyudi Zainudin,Islah Wahyudi bin Zainudin,M,Malay,46,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.33 Sri Tanjung,5,W96M7,Dr. Raja,Rajasekaran a/l Gunnasekaran (Dr. Raja),M,Indian,45,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.34 Gemas,1,DZ67K,Azman Bin Abdullah,Azman bin Abdullah,M,Malay,53,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.34 Gemas,2,ZPWPG,Haji Ridzuan Bin Ahmad,Ridzuan bin Ahmad,M,Malay,50,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.34 Gemas,3,HCW9W,Siti Aishah,Siti 'Aishah binti Seman @ Othman,F,Malay,53,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.35 Gemencheh,1,6J8V2,Suhaimizan Bizar (Hai),Suhaimizan bin Bizar (Hai),M,Malay,43,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.35 Gemencheh,2,MTJC5,Dato Abd Latif,Abd Latif bin A Tambi,M,Malay,71,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.36 Repah,1,TFRVE,Koh Kim Swee (Ah Swee),Koh Kim Swee,M,Chinese,55,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-08-01,SE-16,Negeri Sembilan,N.36 Repah,2,DGQHV,Veerapan A/L Superamaniam,Veerapan a/l Superamaniam,M,Indian,51,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
 1959-05-20,SE-01,Melaka,N.01 Tanjong Kling,1,H9CSE,Abdul Ghafar Bin Baba,Abdul Ghafar bin Baba,M,Malay,34,PERIKATAN,001-UMNO,UMNO,001-PERIKATAN,PERIKATAN,3247,86.5405117270789,1,won
 1959-05-20,SE-01,Melaka,N.01 Tanjong Kling,2,AVDW3,Mohd Nor Bin Noordin,Mohd Nor bin Noordin,M,Malay,30,PAS,004-PAS,PAS,000-ALONE,ALONE,505,13.459488272921108,2,lost
 1959-05-20,SE-01,Melaka,N.02 Bukit Rambai,1,MFGTB,Hassan Bin Mansor,Hassan bin Mansor,M,Malay,-1,PERIKATAN,001-UMNO,UMNO,001-PERIKATAN,PERIKATAN,2295,78.16757493188011,1,won
