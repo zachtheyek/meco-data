@@ -691,70 +691,70 @@ state|Kelantan|wakaf baru,state,Kelantan,Wakaf Baharu,N.03 Wakaf Baharu,Wakaf Ba
 state|Kelantan|wakaf bharu,state,Kelantan,Wakaf Bharu,N.04 Wakaf Bharu,Wakaf Bharu,1,1974,2023,10,True
 state|Melaka|alai,state,Melaka,Alai,N.20 Alai,Alai,1,1995,1999,2,False
 state|Melaka|alor gajah,state,Melaka,Alor Gajah,N.14 Alor Gajah,Alor Gajah,1,1959,1969,3,False
-state|Melaka|asahan,state,Melaka,Asahan,N.10 Asahan,Asahan,1,2004,2021,5,True
-state|Melaka|ayer keroh,state,Melaka,Ayer Keroh,N.16 Ayer Keroh,Ayer Keroh,1,1974,2021,10,True
-state|Melaka|ayer limau,state,Melaka,Ayer Limau,N.03 Ayer Limau,Ayer Limau,1,2004,2021,5,True
-state|Melaka|ayer molek,state,Melaka,Ayer Molek,N.18 Ayer Molek,Ayer Molek,1,1974,2021,12,True
+state|Melaka|asahan,state,Melaka,Asahan,N.10 Asahan,Asahan,1,2004,2026,6,False
+state|Melaka|ayer keroh,state,Melaka,Ayer Keroh,N.16 Ayer Keroh,Ayer Keroh,1,1974,2026,11,False
+state|Melaka|ayer limau,state,Melaka,Ayer Limau,N.03 Ayer Limau,Ayer Limau,1,2004,2026,6,False
+state|Melaka|ayer molek,state,Melaka,Ayer Molek,N.18 Ayer Molek,Ayer Molek,1,1974,2026,13,False
 state|Melaka|ayer panas,state,Melaka,Ayer Panas,N.21 Ayer Panas,Ayer Panas,1,1974,1999,7,False
 state|Melaka|bachang,state,Melaka,Bachang,N.15 Bachang,Bachang,1,1995,2013,5,False
-state|Melaka|bandar hilir,state,Melaka,Bandar Hilir,N.22 Bandar Hilir,Bandar Hilir,1,1974,2021,12,True
+state|Melaka|bandar hilir,state,Melaka,Bandar Hilir,N.22 Bandar Hilir,Bandar Hilir,1,1974,2026,13,False
 state|Melaka|batang malaka,state,Melaka,Batang Malaka,N.16 Batang Malaka,Batang Malaka,1,1959,1969,3,False
 state|Melaka|batang melaka,state,Melaka,Batang Melaka,N.06 Batang Melaka,Batang Melaka,1,1974,1982,3,False
 state|Melaka|batu berendam,state,Melaka,Batu Berendam,N.03 Batu Berendam,Batu Berendam,1,1959,1969,3,False
-state|Melaka|bemban,state,Melaka,Bemban,N.24 Bemban,Bemban,1,2004,2021,5,True
+state|Melaka|bemban,state,Melaka,Bemban,N.24 Bemban,Bemban,1,2004,2026,6,False
 state|Melaka|bukit asahan,state,Melaka,Bukit Asahan,N.08 Bukit Asahan,Bukit Asahan,1,1986,1999,5,False
 state|Melaka|bukit baru,state,Melaka,Bukit Baru,N.17 Bukit Baru,Bukit Baru,1,2004,2013,3,False
-state|Melaka|bukit katil,state,Melaka,Bukit Katil,N.17 Bukit Katil,Bukit Katil,1,2018,2021,2,True
+state|Melaka|bukit katil,state,Melaka,Bukit Katil,N.17 Bukit Katil,Bukit Katil,1,2018,2026,3,False
 state|Melaka|bukit rambai,state,Melaka,Bukit Rambai,N.15 Bukit Rambai,Bukit Rambai,1,1959,1982,6,False
 state|Melaka|bukit sedanan,state,Melaka,Bukit Sedanan,N.07 Bukit Sedanan,Bukit Sedanan,1,1995,1999,2,False
 state|Melaka|durian daun,state,Melaka,Durian Daun,N.17 Durian Daun,Durian Daun,1,1974,1999,7,False
-state|Melaka|durian tunggal,state,Melaka,Durian Tunggal,N.09 Durian Tunggal,Durian Tunggal,1,1995,2021,7,True
-state|Melaka|duyong,state,Melaka,Duyong,N.21 Duyong,Duyong,1,1995,2021,7,True
-state|Melaka|gadek,state,Melaka,Gadek,N.07 Gadek,Gadek,1,2004,2021,5,True
+state|Melaka|durian tunggal,state,Melaka,Durian Tunggal,N.09 Durian Tunggal,Durian Tunggal,1,1995,2026,8,False
+state|Melaka|duyong,state,Melaka,Duyong,N.21 Duyong,Duyong,1,1995,2026,8,False
+state|Melaka|gadek,state,Melaka,Gadek,N.07 Gadek,Gadek,1,2004,2026,6,False
 state|Melaka|jasin,state,Melaka,Jasin,N.18 Jasin,Jasin,1,1959,1969,3,False
 state|Melaka|kandang,state,Melaka,Kandang,N.05 Kandang,Kandang,1,1959,1969,3,False
-state|Melaka|kelebang,state,Melaka,Kelebang,N.14 Kelebang,Kelebang,1,2004,2021,5,True
+state|Melaka|kelebang,state,Melaka,Kelebang,N.14 Kelebang,Kelebang,1,2004,2026,6,False
 state|Melaka|kelemak,state,Melaka,Kelemak,N.04 Kelemak,Kelemak,1,1974,1990,5,False
 state|Melaka|kemuning,state,Melaka,Kemuning,N.06 Kemuning,Kemuning,1,1986,1990,2,False
-state|Melaka|kesidang,state,Melaka,Kesidang,N.19 Kesidang,Kesidang,1,2004,2021,5,True
+state|Melaka|kesidang,state,Melaka,Kesidang,N.19 Kesidang,Kesidang,1,2004,2026,6,False
 state|Melaka|kota barat,state,Melaka,Kota Barat,N.08 Kota Barat,Kota Barat,1,1959,1969,3,False
-state|Melaka|kota laksamana,state,Melaka,Kota Laksamana,N.20 Kota Laksamana,Kota Laksamana,1,2004,2021,5,True
+state|Melaka|kota laksamana,state,Melaka,Kota Laksamana,N.20 Kota Laksamana,Kota Laksamana,1,2004,2026,6,False
 state|Melaka|kota selatan,state,Melaka,Kota Selatan,N.06 Kota Selatan,Kota Selatan,1,1959,1969,3,False
 state|Melaka|kota tengah,state,Melaka,Kota Tengah,N.07 Kota Tengah,Kota Tengah,1,1959,1969,4,False
 state|Melaka|kota timor,state,Melaka,Kota Timor,N.10 Kota Timor,Kota Timor,1,1959,1969,3,False
 state|Melaka|kota utara,state,Melaka,Kota Utara,N.09 Kota Utara,Kota Utara,1,1959,1969,3,False
 state|Melaka|krubong,state,Melaka,Krubong,N.10 Krubong,Krubong,1,1986,1990,2,False
-state|Melaka|kuala linggi,state,Melaka,Kuala Linggi,N.01 Kuala Linggi,Kuala Linggi,1,1986,2021,10,True
+state|Melaka|kuala linggi,state,Melaka,Kuala Linggi,N.01 Kuala Linggi,Kuala Linggi,1,1986,2026,11,False
 state|Melaka|kubu,state,Melaka,Kubu,N.14 Kubu,Kubu,1,1974,1990,5,False
-state|Melaka|lendu,state,Melaka,Lendu,N.04 Lendu,Lendu,1,2004,2021,5,True
+state|Melaka|lendu,state,Melaka,Lendu,N.04 Lendu,Lendu,1,2004,2026,6,False
 state|Melaka|machap,state,Melaka,Machap,N.08 Machap,Machap,1,1974,2013,7,False
-state|Melaka|machap jaya,state,Melaka,Machap Jaya,N.08 Machap Jaya,Machap Jaya,1,2018,2021,2,True
+state|Melaka|machap jaya,state,Melaka,Machap Jaya,N.08 Machap Jaya,Machap Jaya,1,2018,2026,3,False
 state|Melaka|masjid tanah,state,Melaka,Masjid Tanah,N.04 Masjid Tanah,Masjid Tanah,1,1959,1999,10,False
 state|Melaka|melekek,state,Melaka,Melekek,N.03 Melekek,Melekek,1,1995,1999,3,False
-state|Melaka|merlimau,state,Melaka,Merlimau,N.27 Merlimau,Merlimau,1,1995,2021,8,True
+state|Melaka|merlimau,state,Melaka,Merlimau,N.27 Merlimau,Merlimau,1,1995,2026,9,False
 state|Melaka|nyalas,state,Melaka,Nyalas,N.07 Nyalas,Nyalas,1,1974,1982,3,False
-state|Melaka|pantai kundor,state,Melaka,Pantai Kundor,N.12 Pantai Kundor,Pantai Kundor,1,2004,2021,5,True
-state|Melaka|paya rumput,state,Melaka,Paya Rumput,N.13 Paya Rumput,Paya Rumput,1,1995,2021,7,True
-state|Melaka|pengkalan batu,state,Melaka,Pengkalan Batu,N.15 Pengkalan Batu,Pengkalan Batu,1,2018,2021,2,True
+state|Melaka|pantai kundor,state,Melaka,Pantai Kundor,N.12 Pantai Kundor,Pantai Kundor,1,2004,2026,6,False
+state|Melaka|paya rumput,state,Melaka,Paya Rumput,N.13 Paya Rumput,Paya Rumput,1,1995,2026,8,False
+state|Melaka|pengkalan batu,state,Melaka,Pengkalan Batu,N.15 Pengkalan Batu,Pengkalan Batu,1,2018,2026,3,False
 state|Melaka|pringgit,state,Melaka,Pringgit,N.16 Pringgit,Pringgit,1,1974,1982,3,False
 state|Melaka|pulau sebang,state,Melaka,Pulau Sebang,N.06 Pulau Sebang,Pulau Sebang,1,1959,1999,7,False
 state|Melaka|ramuan china,state,Melaka,Ramuan China,N.02 Ramuan China,Ramuan China,1,1959,1999,5,False
-state|Melaka|rembia,state,Melaka,Rembia,N.06 Rembia,Rembia,1,1995,2021,7,True
-state|Melaka|rim,state,Melaka,Rim,N.25 Rim,Rim,1,1959,2021,12,True
+state|Melaka|rembia,state,Melaka,Rembia,N.06 Rembia,Rembia,1,1995,2026,8,False
+state|Melaka|rim,state,Melaka,Rim,N.25 Rim,Rim,1,1959,2026,13,False
 state|Melaka|semabok,state,Melaka,Semabok,N.04 Semabok,Semabok,1,1959,1969,3,False
-state|Melaka|serkam,state,Melaka,Serkam,N.26 Serkam,Serkam,1,1959,2021,16,True
+state|Melaka|serkam,state,Melaka,Serkam,N.26 Serkam,Serkam,1,1959,2026,17,False
 state|Melaka|sungai baru,state,Melaka,Sungai Bahru,N.02 Sungai Bahru,Sungai Bahru,1,1974,1990,5,False
-state|Melaka|sungai rambai,state,Melaka,Sungai Rambai,N.28 Sungai Rambai,Sungai Rambai,1,1986,2021,9,True
-state|Melaka|sungai udang,state,Melaka,Sungai Udang,N.11 Sungai Udang,Sungai Udang,1,1974,2021,12,True
+state|Melaka|sungai rambai,state,Melaka,Sungai Rambai,N.28 Sungai Rambai,Sungai Rambai,1,1986,2026,10,False
+state|Melaka|sungai udang,state,Melaka,Sungai Udang,N.11 Sungai Udang,Sungai Udang,1,1974,2026,13,False
 state|Melaka|sungei bharu,state,Melaka,Sungei Bharu,N.11 Sungei Bharu,Sungei Bharu,1,1959,1974,5,False
 state|Melaka|sungei rambai,state,Melaka,Sungei Rambai,N.10 Sungei Rambai,Sungei Rambai,1,1959,1982,6,False
-state|Melaka|taboh naning,state,Melaka,Taboh Naning,N.05 Taboh Naning,Taboh Naning,1,1974,2021,8,True
+state|Melaka|taboh naning,state,Melaka,Taboh Naning,N.05 Taboh Naning,Taboh Naning,1,1974,2026,9,False
 state|Melaka|tangga batu,state,Melaka,Tangga Batu,N.11 Tangga Batu,Tangga Batu,1,1995,1999,2,False
 state|Melaka|tanjong kling,state,Melaka,Tanjong Kling,N.01 Tanjong Kling,Tanjong Kling,1,1959,1969,3,False
 state|Melaka|tanjong minyak,state,Melaka,Tanjong Minyak,N.11 Tanjong Minyak,Tanjong Minyak,1,1974,1990,5,False
-state|Melaka|tanjung bidara,state,Melaka,Tanjung Bidara,N.02 Tanjung Bidara,Tanjung Bidara,1,2004,2021,5,True
+state|Melaka|tanjung bidara,state,Melaka,Tanjung Bidara,N.02 Tanjung Bidara,Tanjung Bidara,1,2004,2026,6,False
 state|Melaka|tebong,state,Melaka,Tebong,N.07 Tebong,Tebong,1,1986,1990,2,False
-state|Melaka|telok mas,state,Melaka,Telok Mas,N.23 Telok Mas,Telok Mas,1,2004,2021,5,True
+state|Melaka|telok mas,state,Melaka,Telok Mas,N.23 Telok Mas,Telok Mas,1,2004,2026,6,False
 state|Melaka|tengkera,state,Melaka,Tengkera,N.16 Tengkera,Tengkera,1,1995,1999,2,False
 state|Melaka|tranquerah,state,Melaka,Tranquerah,N.13 Tranquerah,Tranquerah,1,1974,1990,5,False
 state|Negeri Sembilan|ampangan,state,Negeri Sembilan,Ampangan,N.14 Ampangan,Ampangan,1,1986,2026,10,False
